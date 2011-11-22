@@ -1,4 +1,5 @@
-Currently used version of eglibc in Renux cross toolchain
+Currently used version of eglibc and Linux headers in Renux cross toolchain
 
 Eglibc 2.14
+Linux 2.6.33.3
 
