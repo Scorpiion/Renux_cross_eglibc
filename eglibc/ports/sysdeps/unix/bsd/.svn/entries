@@ -1,55 +1,0 @@
-10
-
-dir
-15933
-http://www.eglibc.org/svn/branches/eglibc-2_14/ports/sysdeps/unix/bsd
-http://www.eglibc.org/svn
-
-
-
-2009-05-16T14:59:34.594144Z
-8460
-joseph
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7b3dc134-2b1b-0410-93df-9e9f96275f8d
-
-tahoe
-dir
-
-sequent
-dir
-
-m68k
-dir
-
-sun
-dir
-
-hp
-dir
-
-osf
-dir
-
-sony
-dir
-
-ultrix4
-dir
-
-vax
-dir
-

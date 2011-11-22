@@ -1,58 +1,0 @@
-10
-
-dir
-15933
-http://www.eglibc.org/svn/branches/eglibc-2_14/ports/sysdeps/unix/sysv
-http://www.eglibc.org/svn
-
-
-
-2011-11-17T21:57:59.057476Z
-15870
-joseph
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7b3dc134-2b1b-0410-93df-9e9f96275f8d
-
-irix4
-dir
-
-linux
-dir
-
-isc2.2
-dir
-
-aix
-dir
-
-hpux
-dir
-
-minix
-dir
-
-sco3.2
-dir
-
-sysv4
-dir
-
-i386
-dir
-
-sco3.2.4
-dir
-
