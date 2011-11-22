@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun
+END
+sigreturn.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sigreturn.S
+END
+sethostid.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sethostid.c
+END
+syscalls.list
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/syscalls.list
+END

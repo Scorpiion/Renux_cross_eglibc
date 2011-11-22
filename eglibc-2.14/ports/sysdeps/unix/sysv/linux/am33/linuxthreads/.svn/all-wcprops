@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/am33/linuxthreads
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/am33/linuxthreads/sysdep-cancel.h
+END

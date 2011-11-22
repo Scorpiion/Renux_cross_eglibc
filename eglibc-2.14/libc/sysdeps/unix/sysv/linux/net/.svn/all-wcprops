@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net
+END
+ppp-comp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/ppp-comp.h
+END
+if_ppp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/if_ppp.h
+END
+ethernet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/ethernet.h
+END
+route.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/route.h
+END
+if_arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/if_arp.h
+END
+if_shaper.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/if_shaper.h
+END
+ppp_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/ppp_defs.h
+END
+if_packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/if_packet.h
+END
+if_slip.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/net/if_slip.h
+END

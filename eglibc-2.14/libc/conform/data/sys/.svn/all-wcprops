@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys
+END
+un.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/un.h-data
+END
+sem.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/sem.h-data
+END
+msg.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/msg.h-data
+END
+shm.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/shm.h-data
+END
+resource.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/resource.h-data
+END
+socket.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/socket.h-data
+END
+mman.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/mman.h-data
+END
+statvfs.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/statvfs.h-data
+END
+uio.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/uio.h-data
+END
+time.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/time.h-data
+END
+timeb.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/timeb.h-data
+END
+types.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/types.h-data
+END
+wait.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/wait.h-data
+END
+stat.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/stat.h-data
+END
+ipc.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/ipc.h-data
+END
+utsname.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/utsname.h-data
+END
+select.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/select.h-data
+END
+times.h-data
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/conform/data/sys/times.h-data
+END

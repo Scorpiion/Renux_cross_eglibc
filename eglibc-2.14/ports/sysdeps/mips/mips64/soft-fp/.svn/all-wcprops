@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/mips/mips64/soft-fp
+END
+sfp-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/mips/mips64/soft-fp/sfp-machine.h
+END
+e_sqrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/mips/mips64/soft-fp/e_sqrtl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/mips/mips64/soft-fp/Makefile
+END

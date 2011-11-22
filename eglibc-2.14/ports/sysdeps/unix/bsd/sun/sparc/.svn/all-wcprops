@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sparc
+END
+sethostid.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sparc/sethostid.S
+END
+sigtramp.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sparc/sigtramp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/sparc/Makefile
+END

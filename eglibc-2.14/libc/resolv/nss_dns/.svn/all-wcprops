@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/resolv/nss_dns
+END
+dns-host.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/resolv/nss_dns/dns-host.c
+END
+dns-canon.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/resolv/nss_dns/dns-canon.c
+END
+dns-network.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/resolv/nss_dns/dns-network.c
+END

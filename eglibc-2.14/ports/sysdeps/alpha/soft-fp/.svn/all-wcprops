@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp
+END
+sfp-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/sfp-machine.h
+END
+ots_cmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cmp.c
+END
+ots_nintxq.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_nintxq.c
+END
+ots_div.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_div.c
+END
+ots_cmpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cmpe.c
+END
+e_sqrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/e_sqrtl.c
+END
+local-soft-fp.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/local-soft-fp.h
+END
+ots_add.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_add.c
+END
+ots_sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_sub.c
+END
+ots_cvtqux.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cvtqux.c
+END
+ots_mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_mul.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/Versions
+END
+ots_cvtxq.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cvtxq.c
+END
+ots_cvtqx.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cvtqx.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/Makefile
+END
+ots_cvtxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cvtxt.c
+END
+ots_cvttx.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/soft-fp/ots_cvttx.c
+END

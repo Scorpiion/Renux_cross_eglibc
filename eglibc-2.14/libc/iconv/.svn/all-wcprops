@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv
+END
+iconv_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv_open.c
+END
+gconv_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_close.c
+END
+gconv_builtin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_builtin.c
+END
+iconv_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv_close.c
+END
+iconvconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconvconfig.c
+END
+gconv_builtin.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_builtin.h
+END
+iconvconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconvconfig.h
+END
+iconv_charmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv_charmap.c
+END
+dummy-repertoire.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/dummy-repertoire.c
+END
+gconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv.c
+END
+iconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv.c
+END
+gconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv.h
+END
+gconv_conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_conf.c
+END
+gconv_db.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_db.c
+END
+iconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv.h
+END
+gconv_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_simple.c
+END
+gconv_charset.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_charset.h
+END
+gconv_dl.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_dl.c
+END
+gconv_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_int.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/Makefile
+END
+strtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/strtab.c
+END
+gconv_cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_cache.c
+END
+iconv_prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv_prog.c
+END
+tst-iconv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/tst-iconv1.c
+END
+tst-iconv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/tst-iconv2.c
+END
+tst-iconv3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/tst-iconv3.c
+END
+loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/loop.c
+END
+iconv_prog.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/iconv_prog.h
+END
+tst-iconv4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/tst-iconv4.c
+END
+tst-iconv5.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/tst-iconv5.c
+END
+gconv_trans.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_trans.c
+END
+skeleton.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/skeleton.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/Versions
+END
+gconv_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/iconv/gconv_open.c
+END

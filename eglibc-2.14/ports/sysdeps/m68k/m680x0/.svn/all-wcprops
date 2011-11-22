@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0
+END
+rshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/rshift.S
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/Implies
+END
+add_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/add_n.S
+END
+s_isinfl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/s_isinfl.c
+END
+s_isnanl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/s_isnanl.c
+END
+strtold_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/strtold_l.c
+END
+sub_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/sub_n.S
+END
+lshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/lshift.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/Makefile
+END
+printf_fphex.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/printf_fphex.c
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/sysdep.h
+END

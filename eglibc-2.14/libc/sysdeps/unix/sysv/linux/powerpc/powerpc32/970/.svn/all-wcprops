@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc32/970
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc32/970/Implies
+END

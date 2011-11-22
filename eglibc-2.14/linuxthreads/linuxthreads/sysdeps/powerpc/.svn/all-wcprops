@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/powerpc
+END
+tcb-offsets.sym
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/powerpc/tcb-offsets.sym
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/powerpc/tls.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/powerpc/Makefile
+END

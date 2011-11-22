@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/arm/eabi/bits
+END
+huge_val.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/arm/eabi/bits/huge_val.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/arm/eabi/bits/fenv.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/arm/eabi/bits/setjmp.h
+END
+predefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/arm/eabi/bits/predefs.h
+END

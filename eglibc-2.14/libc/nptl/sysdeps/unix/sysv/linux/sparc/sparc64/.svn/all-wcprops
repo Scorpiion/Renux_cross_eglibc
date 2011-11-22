@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64
+END
+timer_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/timer_gettime.c
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/sysdep-cancel.h
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/clone.S
+END
+timer_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/timer_delete.c
+END
+timer_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/timer_create.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/Versions
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/vfork.S
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/pt-vfork.S
+END
+timer_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/timer_settime.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/Makefile
+END
+timer_getoverr.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/sparc/sparc64/timer_getoverr.c
+END

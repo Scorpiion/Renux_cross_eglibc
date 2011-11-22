@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/nptl/bits
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/nptl/bits/pthreadtypes.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/nptl/bits/semaphore.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys
+END
+sendfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/sendfile.h
+END
+statvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/statvfs.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/stat.h
+END
+vfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/vfs.h
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/statfs.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/fcntl.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/io/sys/poll.h
+END

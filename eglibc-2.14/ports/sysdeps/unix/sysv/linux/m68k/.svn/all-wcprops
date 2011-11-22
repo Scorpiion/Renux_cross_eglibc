@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k
+END
+m68k-vdso.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/m68k-vdso.c
+END
+getgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getgid.c
+END
+setregid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setregid.c
+END
+getpagesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getpagesize.c
+END
+getegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getegid.c
+END
+oldgetrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/oldgetrlimit64.c
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/sysdep.h
+END
+brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/brk.c
+END
+setgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setgid.c
+END
+putmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/putmsg.c
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/clone.S
+END
+getuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getuid.c
+END
+setreuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setreuid.c
+END
+setegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setegid.c
+END
+readdir64.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/readdir64.c
+END
+geteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/geteuid.c
+END
+getmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getmsg.c
+END
+____longjmp_chk.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/____longjmp_chk.c
+END
+getdents64.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getdents64.c
+END
+shmctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/shmctl.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/Makefile
+END
+setuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setuid.c
+END
+glob64.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/glob64.c
+END
+fxstatat.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/fxstatat.c
+END
+mremap.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/mremap.S
+END
+kernel-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/kernel-features.h
+END
+seteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/seteuid.c
+END
+libc-m68k-vdso.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/libc-m68k-vdso.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/configure.in
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/vfork.S
+END
+getrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getrlimit64.c
+END
+getresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getresgid.c
+END
+lxstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/lxstat.c
+END
+setresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setresgid.c
+END
+lchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/lchown.c
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/syscall.S
+END
+getresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getresuid.c
+END
+register-dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/register-dump.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/configure
+END
+getrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getrlimit.c
+END
+xstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/xstat.c
+END
+readdir64_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/readdir64_r.c
+END
+fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/fcntl.c
+END
+setresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setresuid.c
+END
+versionsort64.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/versionsort64.c
+END
+setfsgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setfsgid.c
+END
+lockf64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/lockf64.c
+END
+sigcontextinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/sigcontextinfo.h
+END
+setrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setrlimit.c
+END
+chown.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/chown.c
+END
+getgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getgroups.c
+END
+setfsuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setfsuid.c
+END
+semtimedop.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/semtimedop.S
+END
+syscalls.list
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/syscalls.list
+END
+semctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/semctl.c
+END
+msgctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/msgctl.c
+END
+ldconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/ldconfig.h
+END
+setgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/setgroups.c
+END
+scandir64.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/scandir64.c
+END
+dl-librecon.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/dl-librecon.h
+END
+alphasort64.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/alphasort64.c
+END
+socket.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/socket.S
+END
+fchownat.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/fchownat.c
+END
+fxstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/fxstat.c
+END
+mmap.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/mmap.S
+END
+fchown.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/fchown.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/Versions
+END
+sysdep.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/sysdep.S
+END
+init-first.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/init-first.c
+END
+getsysstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/getsysstats.c
+END

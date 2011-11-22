@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet
+END
+igmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet/igmp.h
+END
+icmp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet/icmp6.h
+END
+ip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet/ip6.h
+END
+in.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet/in.h
+END
+ether.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/inet/netinet/ether.h
+END

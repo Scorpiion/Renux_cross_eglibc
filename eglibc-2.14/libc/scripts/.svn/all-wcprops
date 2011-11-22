@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts
+END
+gen-as-const.awk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/gen-as-const.awk
+END
+extract-abilist.awk
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/extract-abilist.awk
+END
+config-uname.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/config-uname.sh
+END
+abi-versions.awk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/abi-versions.awk
+END
+cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/cpp
+END
+check-local-headers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/check-local-headers.sh
+END
+test-installation.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/test-installation.pl
+END
+lib-names.awk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/lib-names.awk
+END
+gen-FAQ.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/gen-FAQ.pl
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/config.guess
+END
+gen-libc-abis
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/gen-libc-abis
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/config.sub
+END
+firstversions.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/firstversions.awk
+END
+option-groups.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/option-groups.awk
+END
+abilist.awk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/abilist.awk
+END
+run-with-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/run-with-env.sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/mkinstalldirs
+END
+move-if-change
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/move-if-change
+END
+gen-sorted.awk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/gen-sorted.awk
+END
+versions.awk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/versions.awk
+END
+soversions.awk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/soversions.awk
+END
+rpm2dynsym.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/rpm2dynsym.sh
+END
+check-c++-types.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/check-c++-types.sh
+END
+output-format.sed
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/output-format.sed
+END
+documented.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/documented.sh
+END
+merge-abilist.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/merge-abilist.awk
+END
+list-sources.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/list-sources.sh
+END
+rellns-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/rellns-sh
+END
+cross-test-ssh.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/cross-test-ssh.sh
+END
+begin-end-check.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/begin-end-check.pl
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/scripts/install-sh
+END

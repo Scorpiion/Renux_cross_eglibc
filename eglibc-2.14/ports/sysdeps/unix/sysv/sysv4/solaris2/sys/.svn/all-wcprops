@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/solaris2/sys
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/solaris2/sys/syscall.h
+END
+param.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/solaris2/sys/param.h
+END

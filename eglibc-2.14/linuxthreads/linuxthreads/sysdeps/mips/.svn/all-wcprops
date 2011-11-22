@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/mips
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/mips/pspinlock.c
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/mips/tls.h
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/mips/pt-machine.h
+END

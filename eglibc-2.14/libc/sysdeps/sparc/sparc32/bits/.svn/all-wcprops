@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/bits
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/bits/atomic.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/bits/setjmp.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/bits/wordsize.h
+END

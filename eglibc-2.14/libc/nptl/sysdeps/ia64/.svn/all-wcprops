@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64
+END
+tcb-offsets.sym
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/tcb-offsets.sym
+END
+pthread_spin_trylock.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/pthread_spin_trylock.c
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/tls.h
+END
+pthread_spin_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/pthread_spin_lock.c
+END
+pthread_spin_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/pthread_spin_unlock.c
+END
+pthreaddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/pthreaddef.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/ia64/Makefile
+END

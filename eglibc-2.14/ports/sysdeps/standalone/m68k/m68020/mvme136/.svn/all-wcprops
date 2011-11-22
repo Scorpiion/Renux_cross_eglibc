@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136/console.c
+END
+_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136/_exit.c
+END
+brdinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136/brdinit.c
+END
+mvme136.ld
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136/mvme136.ld
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/standalone/m68k/m68020/mvme136/Makefile
+END

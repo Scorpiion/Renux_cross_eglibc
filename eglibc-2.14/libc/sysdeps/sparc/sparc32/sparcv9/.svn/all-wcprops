@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9
+END
+memcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/memcmp.S
+END
+hp-timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/hp-timing.h
+END
+stpcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/stpcpy.S
+END
+umul.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/umul.S
+END
+rem.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/rem.S
+END
+strcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strcpy.S
+END
+rawmemchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/rawmemchr.S
+END
+strncmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strncmp.S
+END
+strpbrk.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strpbrk.S
+END
+strspn.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strspn.S
+END
+memset.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/memset.S
+END
+memcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/memcpy.S
+END
+strcspn.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strcspn.S
+END
+strcat.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strcat.S
+END
+stpncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/stpncpy.S
+END
+bzero.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/bzero.c
+END
+strncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strncpy.S
+END
+dotmul.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/dotmul.S
+END
+sdiv.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/sdiv.S
+END
+strchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strchr.S
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strlen.S
+END
+strrchr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strrchr.c
+END
+udiv.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/udiv.S
+END
+strcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/strcmp.S
+END
+urem.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/urem.S
+END
+memchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/memchr.S
+END
+hp-timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/hp-timing.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc32/sparcv9/Makefile
+END

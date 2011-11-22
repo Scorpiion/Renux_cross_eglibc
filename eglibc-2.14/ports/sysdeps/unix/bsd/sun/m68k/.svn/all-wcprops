@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k
+END
+brk.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/brk.S
+END
+sethostid.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/sethostid.S
+END
+sigtramp.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/sigtramp.c
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/vfork.S
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/syscall.S
+END
+dl-brk.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/dl-brk.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/Makefile
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/bsd/sun/m68k/sysdep.h
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist
+END
+libnss_compat.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_compat.abilist
+END
+libnss_dns.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_dns.abilist
+END
+ld.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/ld.abilist
+END
+libanl.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libanl.abilist
+END
+libresolv.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libresolv.abilist
+END
+libnss_nis.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_nis.abilist
+END
+libthread_db.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libthread_db.abilist
+END
+libcidn.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libcidn.abilist
+END
+libutil.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libutil.abilist
+END
+libnss_nisplus.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_nisplus.abilist
+END
+libc.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libc.abilist
+END
+libnss_files.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_files.abilist
+END
+librt.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/librt.abilist
+END
+libpthread.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libpthread.abilist
+END
+libnsl.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnsl.abilist
+END
+libm.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libm.abilist
+END
+libnss_hesiod.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libnss_hesiod.abilist
+END
+libdl.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libdl.abilist
+END
+libBrokenLocale.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libBrokenLocale.abilist
+END
+libcrypt.abilist
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/abilist/libcrypt.abilist
+END

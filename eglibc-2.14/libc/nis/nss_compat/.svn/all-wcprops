@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss_compat
+END
+compat-spwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss_compat/compat-spwd.c
+END
+compat-initgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss_compat/compat-initgroups.c
+END
+compat-grp.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss_compat/compat-grp.c
+END
+compat-pwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss_compat/compat-pwd.c
+END

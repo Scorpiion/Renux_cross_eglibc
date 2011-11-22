@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch
+END
+strcasestr-nonascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcasestr-nonascii.c
+END
+memcpy_chk.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcpy_chk.S
+END
+strcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcpy.S
+END
+ifunc-defines.sym
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/ifunc-defines.sym
+END
+memmove.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memmove.c
+END
+memcpy-ssse3-back.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcpy-ssse3-back.S
+END
+strrchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strrchr.S
+END
+strpbrk-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strpbrk-c.c
+END
+strspn-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strspn-c.c
+END
+strstr-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strstr-c.c
+END
+s_fma.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/s_fma.c
+END
+strcmp-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcmp-ssse3.S
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strlen.S
+END
+strcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcmp.S
+END
+mempcpy-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/mempcpy-ssse3.S
+END
+mempcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/mempcpy.S
+END
+strend-sse4.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strend-sse4.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/Makefile
+END
+strcasecmp_l.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcasecmp_l.S
+END
+memset_chk.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memset_chk.S
+END
+bzero.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/bzero.S
+END
+strcspn.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcspn.S
+END
+strcspn-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcspn-c.c
+END
+strncase_l.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncase_l.S
+END
+cacheinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/cacheinfo.c
+END
+memmove-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memmove-ssse3.S
+END
+memset-x86-64.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memset-x86-64.S
+END
+strchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strchr.S
+END
+varshift.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/varshift.c
+END
+memmove_chk.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memmove_chk.c
+END
+varshift.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/varshift.h
+END
+s_fmaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/s_fmaf.c
+END
+strcasestr.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcasestr.c
+END
+stpcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/stpcpy.S
+END
+strlen-sse4.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strlen-sse4.S
+END
+strpbrk.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strpbrk.S
+END
+memcpy-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcpy-ssse3.S
+END
+strspn.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strspn.S
+END
+strlen-no-bsf.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strlen-no-bsf.S
+END
+memcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcpy.S
+END
+init-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/init-arch.c
+END
+mempcpy_chk.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/mempcpy_chk.S
+END
+stpncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/stpncpy.S
+END
+stpncpy-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/stpncpy-c.c
+END
+memmove-ssse3-back.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memmove-ssse3-back.S
+END
+rtld-memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/rtld-memcmp.c
+END
+strncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncpy.S
+END
+strncpy-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncpy-c.c
+END
+init-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/init-arch.h
+END
+mempcpy-ssse3-back.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/mempcpy-ssse3-back.S
+END
+strcasecmp_l-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcasecmp_l-ssse3.S
+END
+memcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcmp.S
+END
+strstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strstr.c
+END
+strncmp-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncmp-ssse3.S
+END
+rawmemchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/rawmemchr.S
+END
+strncmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncmp.S
+END
+sched_cpucount.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/sched_cpucount.c
+END
+memcmp-sse4.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memcmp-sse4.S
+END
+memset.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/memset.S
+END
+strncase_l-ssse3.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strncase_l-ssse3.S
+END
+strcasestr-c.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/strcasestr-c.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/Versions
+END
+rtld-strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/rtld-strlen.S
+END
+bcopy.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/x86_64/multiarch/bcopy.S
+END

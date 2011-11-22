@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14285/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi
+END
+readahead.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/readahead.c
+END
+oldgetrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/oldgetrlimit.c
+END
+internal_recvmmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/internal_recvmmsg.S
+END
+internal_accept4.S
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/internal_accept4.S
+END
+truncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/truncate64.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/configure
+END
+libc-do-syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/libc-do-syscall.S
+END
+check_pf.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/check_pf.c
+END
+ftruncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/ftruncate64.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/configure.in
+END
+pread64.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/pread64.c
+END
+____longjmp_chk.S
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/____longjmp_chk.S
+END
+pwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/pwrite.c
+END
+oldsetrlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/oldsetrlimit.c
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/sysdep.h
+END
+mmap64.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/mmap64.S
+END
+pwrite64.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/pwrite64.c
+END
+syscalls.list
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/syscalls.list
+END
+semctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/semctl.c
+END
+umount.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/umount.c
+END
+sigrestorer.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/sigrestorer.S
+END
+msgctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/msgctl.c
+END
+internal_sendmmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14285/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/internal_sendmmsg.S
+END
+shmctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/shmctl.c
+END
+syscall.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/syscall.S
+END
+pread.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/pread.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/arm/eabi/Makefile
+END

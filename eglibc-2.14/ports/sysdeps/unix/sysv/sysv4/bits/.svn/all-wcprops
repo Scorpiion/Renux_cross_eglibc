@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits
+END
+utsname.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits/utsname.h
+END
+sigset.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits/sigset.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits/sigaction.h
+END
+waitflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits/waitflags.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/sysv4/bits/signum.h
+END

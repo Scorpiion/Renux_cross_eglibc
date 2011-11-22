@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 128
+*.c.texi
+*.info
+*.info-*
+chapters.texi
+top-menu.texi
+dir-add.texi
+summary.texi
+libm-err.texi
+texis
+stamp-libm-err
+stamp-summary
+
+END

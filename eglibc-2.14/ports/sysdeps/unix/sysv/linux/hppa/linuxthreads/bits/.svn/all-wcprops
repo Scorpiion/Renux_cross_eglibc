@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/linuxthreads/bits
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/linuxthreads/bits/pthreadtypes.h
+END
+initspin.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/hppa/linuxthreads/bits/initspin.h
+END

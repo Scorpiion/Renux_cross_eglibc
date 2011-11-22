@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys
+END
+ucontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/ucontext.h
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/syscall.h
+END
+timerfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/timerfd.h
+END
+epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/epoll.h
+END
+eventfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/eventfd.h
+END
+procfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/procfs.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/user.h
+END
+inotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/inotify.h
+END
+cachectl.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/cachectl.h
+END
+signalfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/signalfd.h
+END
+sysmips.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/sysmips.h
+END
+tas.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/sys/tas.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc
+END
+tcb-offsets.sym
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/tcb-offsets.sym
+END
+tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/tls.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/Makefile
+END

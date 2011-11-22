@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/ipc.h
+END
+utmpx.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/utmpx.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/msq.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/sem.h
+END
+utmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/utmp.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/gnu/bits/shm.h
+END

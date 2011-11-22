@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios
+END
+tcflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcflow.c
+END
+tcgetpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcgetpgrp.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/speed.c
+END
+cfmakeraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/cfmakeraw.c
+END
+tcgetattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcgetattr.c
+END
+tcgetsid.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcgetsid.c
+END
+tcflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcflush.c
+END
+tcsetpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcsetpgrp.c
+END
+tcsetattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcsetattr.c
+END
+tcsendbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcsendbrk.c
+END
+tcdrain.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/tcdrain.c
+END
+cfsetspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/cfsetspeed.c
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/termios.h
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/Versions
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/termios/Makefile
+END

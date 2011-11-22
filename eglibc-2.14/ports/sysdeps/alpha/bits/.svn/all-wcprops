@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits/atomic.h
+END
+link.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits/link.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits/endian.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits/setjmp.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/bits/mathdef.h
+END

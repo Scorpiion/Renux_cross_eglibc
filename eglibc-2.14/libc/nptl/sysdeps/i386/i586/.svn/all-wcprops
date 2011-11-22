@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/i386/i586
+END
+pthread_spin_trylock.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/i386/i586/pthread_spin_trylock.S
+END

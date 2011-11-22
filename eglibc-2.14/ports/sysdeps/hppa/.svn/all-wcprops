@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa
+END
+frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/frame.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/configure
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-tls.h
+END
+machine-gmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/machine-gmon.h
+END
+ldsodefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/ldsodefs.h
+END
+libc-tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/libc-tls.c
+END
+libgcc_s.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/libgcc_s.h
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/sysdep.h
+END
+dl-fptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-fptr.h
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/setjmp.S
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/stackinfo.h
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/bsd-_setjmp.S
+END
+dl-trampoline.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-trampoline.S
+END
+tls-macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/tls-macros.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/Makefile
+END
+jmpbuf-offsets.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/jmpbuf-offsets.h
+END
+dl-symaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-symaddr.c
+END
+libgcc-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/libgcc-compat.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/configure.in
+END
+dl-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-machine.h
+END
+preconfigure
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/preconfigure
+END
+memusage.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/memusage.h
+END
+lshift.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/lshift.s
+END
+abort-instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/abort-instr.h
+END
+mp_clz_tab.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/mp_clz_tab.c
+END
+gccframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/gccframe.h
+END
+rshift.s
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/rshift.s
+END
+tst-audit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/tst-audit.h
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/__longjmp.S
+END
+add_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/add_n.s
+END
+sub_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/sub_n.s
+END
+shlib-versions
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/shlib-versions
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/Versions
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/bsd-setjmp.S
+END
+udiv_qrnnd.s
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/udiv_qrnnd.s
+END
+jmpbuf-unwind.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/jmpbuf-unwind.h
+END
+dl-lookupcfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/dl-lookupcfg.h
+END

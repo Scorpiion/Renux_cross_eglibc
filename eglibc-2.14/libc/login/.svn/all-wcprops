@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login
+END
+unlockpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/unlockpt.c
+END
+setutxent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/setutxent.c
+END
+login_tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/login_tty.c
+END
+lastlog.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/lastlog.h
+END
+endutxent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/endutxent.c
+END
+utmpxname.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/utmpxname.c
+END
+grantpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/grantpt.c
+END
+getutent_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutent_r.c
+END
+getutline_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutline_r.c
+END
+getpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getpt.c
+END
+utmp_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/utmp_file.c
+END
+tst-utmpx.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/tst-utmpx.c
+END
+getutid_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutid_r.c
+END
+utmpname.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/utmpname.c
+END
+tst-grantpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/tst-grantpt.c
+END
+utmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/utmp.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/Makefile
+END
+tst-utmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/tst-utmp.c
+END
+openpty.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/openpty.c
+END
+forkpty.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/forkpty.c
+END
+getutent.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutent.c
+END
+getutline.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutline.c
+END
+updwtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/updwtmp.c
+END
+utmp-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/utmp-private.h
+END
+getutid.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutid.c
+END
+ptsname.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/ptsname.c
+END
+login.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/login.c
+END
+logout.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/logout.c
+END
+getutmpx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutmpx.c
+END
+pututxline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/pututxline.c
+END
+pty.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/pty.h
+END
+getutmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutmp.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/Versions
+END
+getutxent.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutxent.c
+END
+getutxline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutxline.c
+END
+updwtmpx.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/updwtmpx.c
+END
+logwtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/logwtmp.c
+END
+getutxid.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/login/getutxid.c
+END

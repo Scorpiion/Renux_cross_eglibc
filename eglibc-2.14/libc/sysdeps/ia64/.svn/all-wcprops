@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/configure
+END
+hp-timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/hp-timing.h
+END
+dl-tls.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-tls.h
+END
+strcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strcpy.S
+END
+machine-gmon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/machine-gmon.h
+END
+libc-tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/libc-tls.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-sysdep.h
+END
+memcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memcpy.S
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/sysdep.h
+END
+dl-dtprocnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-dtprocnum.h
+END
+dl-fptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-fptr.h
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/backtrace.c
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/Implies
+END
+strncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strncpy.S
+END
+stackinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/stackinfo.h
+END
+ia64libgcc.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/ia64libgcc.S
+END
+dl-trampoline.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-trampoline.S
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strlen.S
+END
+strcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strcmp.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/Makefile
+END
+memcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memcmp.S
+END
+softpipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/softpipe.h
+END
+strcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strcat.c
+END
+bzero.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/bzero.S
+END
+htonl.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/htonl.S
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/configure.in
+END
+dl-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-machine.h
+END
+sched_cpucount.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/sched_cpucount.c
+END
+strncmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strncmp.S
+END
+memusage.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memusage.h
+END
+abort-instr.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/abort-instr.h
+END
+ldbl2mpn.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/ldbl2mpn.c
+END
+memset.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memset.S
+END
+htons.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/htons.S
+END
+ieee754.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/ieee754.h
+END
+gccframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/gccframe.h
+END
+memccpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memccpy.S
+END
+_mcount.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/_mcount.S
+END
+memmove.S
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memmove.S
+END
+strchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/strchr.S
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/Versions
+END
+jmpbuf-unwind.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/jmpbuf-unwind.h
+END
+dl-lookupcfg.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/dl-lookupcfg.h
+END
+memchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/memchr.S
+END
+hp-timing.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/hp-timing.c
+END
+bcopy.S
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/bcopy.S
+END

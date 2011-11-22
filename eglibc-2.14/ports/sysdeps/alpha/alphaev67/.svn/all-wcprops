@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67
+END
+ffs.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/ffs.S
+END
+strncat.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/strncat.S
+END
+stpncpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/stpncpy.S
+END
+strcat.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/strcat.S
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/Implies
+END
+stpcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/stpcpy.S
+END
+rawmemchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/rawmemchr.S
+END
+strchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/strchr.S
+END
+ffsll.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/ffsll.S
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/strlen.S
+END
+strrchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev67/strrchr.S
+END

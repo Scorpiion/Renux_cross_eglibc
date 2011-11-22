@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/alpha/bits
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/alpha/bits/local_lim.h
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/alpha/bits/typesizes.h
+END

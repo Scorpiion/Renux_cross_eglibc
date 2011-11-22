@@ -1,0 +1,1085 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu
+END
+e_acosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_acosf.c
+END
+s_finite.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_finite.c
+END
+e_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp.c
+END
+e_exp10.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp10.c
+END
+e_logl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_logl.c
+END
+slowexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/slowexp.c
+END
+s_floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_floor.c
+END
+s_fabsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_fabsf.c
+END
+e_sinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sinh.c
+END
+s_isinfl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isinfl.c
+END
+s_finitef.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_finitef.c
+END
+e_expf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_expf.c
+END
+s_rintl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_rintl.c
+END
+s_expm1.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_expm1.c
+END
+s_scalblnl.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalblnl.c
+END
+mptan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mptan.c
+END
+e_powf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_powf.c
+END
+e_remainderf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_remainderf.c
+END
+s_sincos.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sincos.c
+END
+s_cexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cexp.c
+END
+s_ccosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccosh.c
+END
+s_ccosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccosl.c
+END
+e_log10.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log10.c
+END
+s_sincosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sincosf.c
+END
+s_expm1l.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_expm1l.c
+END
+e_exp2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp2f.c
+END
+s_isnanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isnanf.c
+END
+s_remquof.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_remquof.c
+END
+s_ceilf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ceilf.c
+END
+e_asinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_asinf.c
+END
+s_atan.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_atan.c
+END
+e_atanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atanhf.c
+END
+e_exp10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp10f.c
+END
+k_cosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_cosl.c
+END
+e_log2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log2f.c
+END
+s_modff.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_modff.c
+END
+s_trunc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_trunc.c
+END
+s_ilogb.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ilogb.c
+END
+dosincos.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/dosincos.c
+END
+e_sinhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sinhl.c
+END
+s_cosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cosl.c
+END
+e_atan2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atan2l.c
+END
+s_csinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csinh.c
+END
+s_lrintl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_lrintl.c
+END
+s_cexpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cexpf.c
+END
+s_ccoshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccoshf.c
+END
+e_fmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_fmod.c
+END
+s_isinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isinf.c
+END
+s_csinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csinl.c
+END
+s_scalbnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalbnf.c
+END
+e_atanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atanh.c
+END
+s_significand.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_significand.c
+END
+e_sqrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sqrtf.c
+END
+s_significandf.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_significandf.c
+END
+e_log2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log2.c
+END
+s_modf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_modf.c
+END
+mpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mpa.c
+END
+branred.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/branred.c
+END
+k_sinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_sinl.c
+END
+t_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/t_exp.c
+END
+e_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_rem_pio2.c
+END
+s_atanl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_atanl.c
+END
+e_rem_pio2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_rem_pio2f.c
+END
+s_sinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sinl.c
+END
+s_truncl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_truncl.c
+END
+k_rem_pio2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_rem_pio2f.c
+END
+s_llrintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_llrintf.c
+END
+s_fabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_fabs.c
+END
+s_ceil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ceil.c
+END
+e_asin.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_asin.c
+END
+s_nextafterl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_nextafterl.c
+END
+e_fmodf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_fmodf.c
+END
+k_tanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_tanf.c
+END
+e_log10l.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log10l.c
+END
+k_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_sin.c
+END
+e_scalbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_scalbl.c
+END
+s_log1p.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_log1p.c
+END
+s_floorf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_floorf.c
+END
+s_ccos.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccos.c
+END
+s_lrint.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_lrint.c
+END
+s_tanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tanf.c
+END
+s_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sin.c
+END
+s_frexpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_frexpf.c
+END
+e_coshl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_coshl.c
+END
+s_log1pl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_log1pl.c
+END
+s_tanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tanhf.c
+END
+s_nearbyintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_nearbyintf.c
+END
+mpsqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mpsqrt.c
+END
+s_ilogbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ilogbl.c
+END
+e_logf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_logf.c
+END
+s_isinff.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isinff.c
+END
+s_scalbln.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalbln.c
+END
+s_fpclassifyl.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_fpclassifyl.c
+END
+s_csinhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csinhl.c
+END
+mpatan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mpatan2.c
+END
+s_rintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_rintf.c
+END
+e_acosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_acosl.c
+END
+s_scalblnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalblnf.c
+END
+s_fabsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_fabsl.c
+END
+e_atan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atan2.c
+END
+s_finitel.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_finitel.c
+END
+e_expl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_expl.c
+END
+doasin.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/doasin.c
+END
+mplog.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mplog.c
+END
+s_ccosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccosf.c
+END
+s_expm1f.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_expm1f.c
+END
+e_powl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_powl.c
+END
+k_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_rem_pio2.c
+END
+e_remainderl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_remainderl.c
+END
+s_llrint.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_llrint.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/Makefile
+END
+s_sincosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sincosl.c
+END
+e_sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sqrt.c
+END
+e_exp2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp2l.c
+END
+libm-test-ulps
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/libm-test-ulps
+END
+sincos32.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/sincos32.c
+END
+k_cosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_cosf.c
+END
+s_frexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_frexp.c
+END
+s_isnanl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isnanl.c
+END
+s_remquol.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_remquol.c
+END
+s_ceill.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ceill.c
+END
+e_asinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_asinl.c
+END
+e_atanhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atanhl.c
+END
+e_sinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sinhf.c
+END
+s_cosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cosf.c
+END
+e_exp10l.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp10l.c
+END
+fraiseexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/fraiseexcpt.c
+END
+e_atan2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_atan2f.c
+END
+mpatan.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mpatan.c
+END
+s_lrintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_lrintf.c
+END
+e_log2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log2l.c
+END
+s_modfl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_modfl.c
+END
+s_csinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csinf.c
+END
+s_scalbn.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalbn.c
+END
+mpexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mpexp.c
+END
+s_cexpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cexpl.c
+END
+s_ccoshl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ccoshl.c
+END
+s_rint.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_rint.c
+END
+s_scalbnl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_scalbnl.c
+END
+k_sinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_sinf.c
+END
+e_sqrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_sqrtl.c
+END
+e_remainder.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_remainder.c
+END
+s_atanf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_atanf.c
+END
+s_significandl.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_significandl.c
+END
+s_nearbyint.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_nearbyint.c
+END
+s_sinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_sinf.c
+END
+e_exp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_exp2.c
+END
+s_truncf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_truncf.c
+END
+e_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log.c
+END
+e_scalb.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_scalb.c
+END
+e_acos.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_acos.c
+END
+s_isnan.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_isnan.c
+END
+s_remquo.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_remquo.c
+END
+halfulp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/halfulp.c
+END
+k_tan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_tan.c
+END
+e_log10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_log10f.c
+END
+e_rem_pio2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_rem_pio2l.c
+END
+e_scalbf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_scalbf.c
+END
+k_cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_cos.c
+END
+e_cosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_cosh.c
+END
+k_rem_pio2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_rem_pio2l.c
+END
+s_llrintl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_llrintl.c
+END
+s_tan.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tan.c
+END
+e_fmodl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_fmodl.c
+END
+s_cos.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_cos.c
+END
+e_coshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_coshf.c
+END
+k_tanl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/k_tanl.c
+END
+e_pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/e_pow.c
+END
+s_log1pf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_log1pf.c
+END
+slowpow.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/slowpow.c
+END
+s_tanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tanh.c
+END
+s_csin.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csin.c
+END
+s_floorl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_floorl.c
+END
+mathimpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/mathimpl.h
+END
+s_tanl.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tanl.c
+END
+s_frexpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_frexpl.c
+END
+s_ilogbf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_ilogbf.c
+END
+s_tanhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_tanhl.c
+END
+s_nearbyintl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_nearbyintl.c
+END
+s_csinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/s_csinhf.c
+END

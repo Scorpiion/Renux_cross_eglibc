@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14285/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14285/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/siginfo.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/endian.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/msq.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/signum.h
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/statfs.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/poll.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/fcntl.h
+END
+sigstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/sigstack.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/ipc.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/stat.h
+END
+ioctl-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/ioctl-types.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/sigaction.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/termios.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/sem.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/errno.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/sigcontext.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/shm.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/resource.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/mman.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14285/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/mips/bits/socket.h
+END

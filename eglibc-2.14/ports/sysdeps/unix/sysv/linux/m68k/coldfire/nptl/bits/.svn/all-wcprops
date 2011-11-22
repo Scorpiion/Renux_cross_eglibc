@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/coldfire/nptl/bits
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/m68k/coldfire/nptl/bits/atomic.h
+END

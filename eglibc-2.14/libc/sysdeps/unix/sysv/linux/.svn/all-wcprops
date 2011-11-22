@@ -1,0 +1,1709 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/speed.c
+END
+pwritev.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pwritev.c
+END
+sizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sizes.h
+END
+mq_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_close.c
+END
+ftime.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ftime.c
+END
+setregid.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setregid.c
+END
+sethostid.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sethostid.c
+END
+getsourcefilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getsourcefilter.c
+END
+ifreq.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ifreq.c
+END
+linux_fsinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/linux_fsinfo.h
+END
+getpriority.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getpriority.c
+END
+lddlibc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/lddlibc4.c
+END
+setsourcefilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setsourcefilter.c
+END
+sigtimedwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigtimedwait.c
+END
+a.out.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/a.out.h
+END
+readahead.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readahead.c
+END
+fxstatat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fxstatat.c
+END
+xmknod.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xmknod.c
+END
+pread64.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pread64.c
+END
+fpathconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fpathconf.c
+END
+fstatvfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fstatvfs64.c
+END
+ifaddrs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ifaddrs.c
+END
+mq_receive.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_receive.c
+END
+sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigaction.c
+END
+sysctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sysctl.c
+END
+times.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/times.c
+END
+sigsuspend.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigsuspend.c
+END
+unlinkat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/unlinkat.c
+END
+if_index.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/if_index.c
+END
+not-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/not-cancel.h
+END
+netlinkaccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/netlinkaccess.h
+END
+local-setxid.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/local-setxid.h
+END
+tst-getcpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tst-getcpu.c
+END
+fstatvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fstatvfs.c
+END
+pathconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pathconf.c
+END
+fcntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fcntl.c
+END
+pathconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pathconf.h
+END
+ntp_gettimex.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ntp_gettimex.c
+END
+kernel-posix-cpu-timers.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/kernel-posix-cpu-timers.h
+END
+adjtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/adjtime.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getcwd.c
+END
+recv.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/recv.S
+END
+lxstat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/lxstat64.c
+END
+futimens.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/futimens.c
+END
+ttyname_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ttyname_r.c
+END
+posix_fadvise.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/posix_fadvise.c
+END
+ptsname.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ptsname.c
+END
+shm_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shm_open.c
+END
+fchownat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fchownat.c
+END
+ldd-rewrite.sed
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ldd-rewrite.sed
+END
+xstat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xstat64.c
+END
+sigprocmask.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigprocmask.c
+END
+accept4.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/accept4.c
+END
+signalfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/signalfd.c
+END
+sched_getcpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sched_getcpu.c
+END
+exit-thread.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/exit-thread.S
+END
+readv.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readv.c
+END
+msgrcv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/msgrcv.c
+END
+dl-sysdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-sysdep.c
+END
+dl-fxstatat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-fxstatat64.c
+END
+sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sleep.c
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-sysdep.h
+END
+send.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/send.S
+END
+grantpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/grantpt.c
+END
+prlimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/prlimit.c
+END
+kernel_stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/kernel_stat.h
+END
+setegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setegid.c
+END
+sysconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sysconf.c
+END
+xmknodat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xmknodat.c
+END
+sigset-cvt-mask.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigset-cvt-mask.h
+END
+sigpending.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigpending.c
+END
+getdents64.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getdents64.c
+END
+fatal-prepare.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fatal-prepare.h
+END
+shutdown.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shutdown.S
+END
+msgsnd.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/msgsnd.c
+END
+open64_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/open64_2.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/Makefile
+END
+setuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setuid.c
+END
+dl-openat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-openat64.c
+END
+opendir.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/opendir.c
+END
+updwtmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/updwtmp.c
+END
+kernel-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/kernel-features.h
+END
+errqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/errqueue.h
+END
+getsockopt.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getsockopt.S
+END
+sigwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigwait.c
+END
+utimensat.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/utimensat.c
+END
+pwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pwrite.c
+END
+posix_fallocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/posix_fallocate.c
+END
+shmdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shmdt.c
+END
+lxstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/lxstat.c
+END
+cmsg_nxthdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/cmsg_nxthdr.c
+END
+opensock.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/opensock.c
+END
+setresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setresgid.c
+END
+faccessat.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/faccessat.c
+END
+dl-opendir.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-opendir.c
+END
+nscd_setup_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/nscd_setup_thread.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/configure
+END
+waitpid.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/waitpid.c
+END
+ulimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ulimit.c
+END
+device-nrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/device-nrs.h
+END
+ftruncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ftruncate64.c
+END
+getlogin.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getlogin.c
+END
+dl-getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-getcwd.c
+END
+getclktck.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getclktck.c
+END
+sendmmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sendmmsg.c
+END
+paths.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/paths.h
+END
+fchmodat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fchmodat.c
+END
+wait3.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/wait3.c
+END
+msgctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/msgctl.c
+END
+internal_sendmmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/internal_sendmmsg.S
+END
+umount2.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/umount2.S
+END
+mkdirat.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mkdirat.c
+END
+dl-librecon.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-librecon.h
+END
+openat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/openat64.c
+END
+sa_len.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sa_len.c
+END
+futimesat.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/futimesat.c
+END
+getipv4sourcefilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getipv4sourcefilter.c
+END
+open64.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/open64.c
+END
+signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/signal.c
+END
+sendmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sendmsg.S
+END
+libc_fatal.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/libc_fatal.c
+END
+ttyname.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ttyname.c
+END
+preadv.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/preadv.c
+END
+sigwaitinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigwaitinfo.c
+END
+fstatfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fstatfs64.c
+END
+setipv4sourcefilter.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setipv4sourcefilter.c
+END
+mq_send.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_send.c
+END
+recvmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/recvmsg.S
+END
+init-first.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/init-first.c
+END
+socketcall.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/socketcall.h
+END
+gethostid.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/gethostid.c
+END
+clock_getcpuclockid.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock_getcpuclockid.c
+END
+internal_accept4.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/internal_accept4.S
+END
+prof-freq.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/prof-freq.c
+END
+termio.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/termio.h
+END
+poll.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/poll.c
+END
+utimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/utimes.c
+END
+ldsodefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ldsodefs.h
+END
+posix_fadvise64.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/posix_fadvise64.c
+END
+lseek64.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/lseek64.c
+END
+statfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/statfs64.c
+END
+epoll_pwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/epoll_pwait.c
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/Implies
+END
+setreuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setreuid.c
+END
+readdir64.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readdir64.c
+END
+pwrite64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pwrite64.c
+END
+utmp_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/utmp_file.c
+END
+eventfd_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/eventfd_read.c
+END
+statvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/statvfs.c
+END
+profil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/profil.c
+END
+preadv64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/preadv64.c
+END
+mq_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_open.c
+END
+time.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/time.c
+END
+clock_nanosleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock_nanosleep.c
+END
+tcgetpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcgetpgrp.c
+END
+internal_statvfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/internal_statvfs64.c
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/configure.in
+END
+shm_unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shm_unlink.c
+END
+umount.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/umount.S
+END
+_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/_exit.c
+END
+clock_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock_gettime.c
+END
+connect.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/connect.S
+END
+tcsetpgrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcsetpgrp.c
+END
+sendto.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sendto.S
+END
+setsockopt.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setsockopt.S
+END
+accept.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/accept.S
+END
+clock_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock_settime.c
+END
+msgget.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/msgget.c
+END
+eventfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/eventfd.c
+END
+wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/wait.c
+END
+readdir64_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readdir64_r.c
+END
+gai_sigqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/gai_sigqueue.c
+END
+sigstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigstack.c
+END
+segfault.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/segfault.c
+END
+listen.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/listen.S
+END
+execve.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/execve.c
+END
+llseek.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/llseek.c
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/system.c
+END
+semctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/semctl.c
+END
+sync_file_range.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sync_file_range.c
+END
+mq_unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_unlink.c
+END
+usleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/usleep.c
+END
+dl-osinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-osinfo.h
+END
+truncate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/truncate64.c
+END
+fd_to_filename.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fd_to_filename.h
+END
+check_pf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/check_pf.c
+END
+mmap64.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mmap64.c
+END
+dl-execstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-execstack.c
+END
+tst-clone.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tst-clone.c
+END
+fxstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fxstat.c
+END
+posix_madvise.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/posix_madvise.c
+END
+futimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/futimes.c
+END
+getpeername.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getpeername.S
+END
+getdents.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getdents.c
+END
+readlinkat.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readlinkat.c
+END
+lutimes.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/lutimes.c
+END
+socketpair.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/socketpair.S
+END
+tcdrain.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcdrain.c
+END
+kernel_sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/kernel_sigaction.h
+END
+ppoll.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ppoll.c
+END
+openat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/openat.c
+END
+kernel_termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/kernel_termios.h
+END
+fallocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fallocate.c
+END
+pread.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pread.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock.c
+END
+remove.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/remove.c
+END
+unlockpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/unlockpt.c
+END
+ustat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ustat.c
+END
+tcgetattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcgetattr.c
+END
+statvfs64.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/statvfs64.c
+END
+mq_notify.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_notify.c
+END
+getpagesize.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getpagesize.c
+END
+mq_getattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/mq_getattr.c
+END
+fxstatat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fxstatat64.c
+END
+tcflush.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcflush.c
+END
+shmat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shmat.c
+END
+tcsetattr.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcsetattr.c
+END
+nice.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/nice.c
+END
+setgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setgid.c
+END
+ipc_priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ipc_priv.h
+END
+syslog.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/syslog.c
+END
+writev.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/writev.c
+END
+siglist.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/siglist.h
+END
+recvmmsg.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/recvmmsg.c
+END
+check_native.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14285/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/check_native.c
+END
+fxstat64.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fxstat64.c
+END
+posix_fallocate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/posix_fallocate64.c
+END
+xstatconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xstatconv.c
+END
+shmctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shmctl.c
+END
+dl-sbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-sbrk.c
+END
+xstatconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xstatconv.h
+END
+internal_recvmmsg.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/internal_recvmmsg.S
+END
+seteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/seteuid.c
+END
+recvfrom.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/recvfrom.S
+END
+eventfd_write.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/eventfd_write.c
+END
+getrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getrlimit64.c
+END
+dl-brk.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-brk.c
+END
+getloadavg.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getloadavg.c
+END
+sched_getaffinity.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sched_getaffinity.c
+END
+waitid.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/waitid.c
+END
+linkat.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/linkat.c
+END
+getdirentries64.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getdirentries64.c
+END
+semget.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/semget.c
+END
+fexecve.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fexecve.c
+END
+internal_statvfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/internal_statvfs.c
+END
+setrlimit64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setrlimit64.c
+END
+vfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/vfork.c
+END
+sigqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigqueue.c
+END
+reboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/reboot.c
+END
+sched_setaffinity.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sched_setaffinity.c
+END
+tcflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/tcflow.c
+END
+pselect.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pselect.c
+END
+xstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/xstat.c
+END
+setresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setresuid.c
+END
+getdirentries.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getdirentries.c
+END
+makedev.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/makedev.c
+END
+ntp_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ntp_gettime.c
+END
+aio_sigqueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/aio_sigqueue.c
+END
+getsockname.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getsockname.S
+END
+sigreturn.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sigreturn.c
+END
+getpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getpt.c
+END
+getdtsz.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getdtsz.c
+END
+syscalls.list
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/syscalls.list
+END
+setgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/setgroups.c
+END
+renameat.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/renameat.c
+END
+bind.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/bind.S
+END
+fallocate64.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/fallocate64.c
+END
+clock_getres.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/clock_getres.c
+END
+semtimedop.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/semtimedop.c
+END
+dl-vdso.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-vdso.c
+END
+pwritev64.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/pwritev64.c
+END
+symlinkat.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/symlinkat.c
+END
+dl-vdso.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-vdso.h
+END
+ptrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ptrace.c
+END
+ualarm.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/ualarm.c
+END
+open_2.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/open_2.c
+END
+semop.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/semop.c
+END
+readonly-area.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/readonly-area.c
+END
+dl-origin.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/dl-origin.c
+END
+shmget.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/shmget.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/Versions
+END
+getlogin_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getlogin_r.c
+END
+getsysstats.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/getsysstats.c
+END
+testrtsig.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/testrtsig.h
+END

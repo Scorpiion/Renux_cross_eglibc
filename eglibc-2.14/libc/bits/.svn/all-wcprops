@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits
+END
+xtitypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/xtitypes.h
+END
+sockaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sockaddr.h
+END
+netdb.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/netdb.h
+END
+link.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/link.h
+END
+sigset.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sigset.h
+END
+siginfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/siginfo.h
+END
+fenv.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/fenv.h
+END
+endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/endian.h
+END
+byteswap.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/byteswap.h
+END
+huge_valf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/huge_valf.h
+END
+msq.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/msq.h
+END
+ustat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/ustat.h
+END
+poll.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/poll.h
+END
+in.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/in.h
+END
+huge_vall.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/huge_vall.h
+END
+waitstatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/waitstatus.h
+END
+sigthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sigthread.h
+END
+stropts.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/stropts.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/dirent.h
+END
+utmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/utmp.h
+END
+confname.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/confname.h
+END
+statvfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/statvfs.h
+END
+elfclass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/elfclass.h
+END
+fenvinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/fenvinline.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/ioctls.h
+END
+time.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/time.h
+END
+libc-lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/libc-lock.h
+END
+libc-tsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/libc-tsd.h
+END
+setjmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/setjmp.h
+END
+statfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/statfs.h
+END
+stdio-lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/stdio-lock.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/atomic.h
+END
+sigaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sigaction.h
+END
+termios.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/termios.h
+END
+sem.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sem.h
+END
+environments.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/environments.h
+END
+predefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/predefs.h
+END
+huge_val.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/huge_val.h
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/local_lim.h
+END
+uio.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/uio.h
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/typesizes.h
+END
+ipctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/ipctypes.h
+END
+mqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/mqueue.h
+END
+signum.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/signum.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/types.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/string.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/fcntl.h
+END
+wordsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/wordsize.h
+END
+sigstack.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sigstack.h
+END
+syslog-path.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/syslog-path.h
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/stat.h
+END
+ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/ipc.h
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/pthreadtypes.h
+END
+inf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/inf.h
+END
+ioctl-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/ioctl-types.h
+END
+select.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/select.h
+END
+waitflags.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/waitflags.h
+END
+posix_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/posix_opt.h
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sched.h
+END
+shm.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/shm.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/resource.h
+END
+linkmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/linkmap.h
+END
+wchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/wchar.h
+END
+mathdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/mathdef.h
+END
+nan.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/nan.h
+END
+utsname.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/utsname.h
+END
+sys_errlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sys_errlist.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/errno.h
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/dlfcn.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/sigcontext.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/socket.h
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/mathinline.h
+END
+mman.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/bits/mman.h
+END

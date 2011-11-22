@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt
+END
+crypt_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/crypt_util.c
+END
+crypt-entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/crypt-entry.c
+END
+crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/crypt.c
+END
+sha512-crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha512-crypt.c
+END
+sha512.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha512.c
+END
+sha512test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha512test.c
+END
+md5c-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/md5c-test.c
+END
+crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/crypt.h
+END
+sha256-crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha256-crypt.c
+END
+sha256.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha256.c
+END
+sha256test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha256test.c
+END
+sha512.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha512.h
+END
+cert.input
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/cert.input
+END
+sha256.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha256.h
+END
+ufc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/ufc.c
+END
+crypt-private.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/crypt-private.h
+END
+ufc-crypt.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/ufc-crypt.h
+END
+sha512c-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha512c-test.c
+END
+speeds.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/speeds.c
+END
+md5-crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/md5-crypt.c
+END
+Banner
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/Banner
+END
+md5test.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/md5test.c
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/md5.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/Versions
+END
+README.ufc-crypt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/README.ufc-crypt
+END
+sha256c-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/sha256c-test.c
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/md5.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/Makefile
+END
+cert.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/crypt/cert.c
+END

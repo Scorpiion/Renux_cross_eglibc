@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis
+END
+nss-nis.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss-nis.h
+END
+nis_modify.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_modify.c
+END
+nis_checkpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_checkpoint.c
+END
+nis_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_error.c
+END
+nis_clone_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_clone_obj.c
+END
+nis_domain_of.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_domain_of.c
+END
+nis_callback.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_callback.c
+END
+nis_ping.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_ping.c
+END
+nis_remove.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_remove.c
+END
+nis_xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_xdr.c
+END
+nis_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_error.h
+END
+ypupdate_xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/ypupdate_xdr.c
+END
+nis_xdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_xdr.h
+END
+nis_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_intern.h
+END
+Depend
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/Depend
+END
+nis_mkdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_mkdir.c
+END
+nis_defaults.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_defaults.c
+END
+nis_getservlist.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_getservlist.c
+END
+nis_call.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_call.c
+END
+nis_local_names.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_local_names.c
+END
+nis_rmdir.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_rmdir.c
+END
+nis_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_util.c
+END
+nis_findserv.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_findserv.c
+END
+nis_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_free.c
+END
+nis_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_hash.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/Makefile
+END
+nis_removemember.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_removemember.c
+END
+nss-nisplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss-nisplus.c
+END
+nis_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_table.c
+END
+nis_add.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_add.c
+END
+nis_print_group_entry.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_print_group_entry.c
+END
+nss-nisplus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss-nisplus.h
+END
+nis_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_print.c
+END
+yp_xdr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/yp_xdr.c
+END
+nis_clone_dir.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_clone_dir.c
+END
+ypclnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/ypclnt.c
+END
+nis_ismember.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_ismember.c
+END
+nis_destroygroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_destroygroup.c
+END
+nis_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_server.c
+END
+nis_lookup.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_lookup.c
+END
+nis_clone_res.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_clone_res.c
+END
+nss
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss
+END
+nis_subr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_subr.c
+END
+nis_domain_of_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_domain_of_r.c
+END
+nss-default.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss-default.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/Versions
+END
+nis_file.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_file.c
+END
+libnsl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/libnsl.h
+END
+nis_addmember.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_addmember.c
+END
+nis_creategroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_creategroup.c
+END
+nis_verifygroup.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nis_verifygroup.c
+END
+nss-nis.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nss-nis.c
+END
+nisplus-parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nis/nisplus-parser.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys
+END
+ucontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/ucontext.h
+END
+timerfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/timerfd.h
+END
+epoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/epoll.h
+END
+eventfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/eventfd.h
+END
+procfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/procfs.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/ptrace.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/user.h
+END
+inotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/inotify.h
+END
+trap.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/trap.h
+END
+signalfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/sparc/sys/signalfd.h
+END

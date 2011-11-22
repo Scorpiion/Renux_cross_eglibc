@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14459/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/configure
+END
+hp-timing.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/hp-timing.h
+END
+stpcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/stpcpy.S
+END
+strcpy.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/strcpy.S
+END
+gprsave0.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/gprsave0.S
+END
+submul_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/submul_1.S
+END
+gprsave1.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/gprsave1.S
+END
+setjmp-common.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/setjmp-common.S
+END
+lshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/lshift.S
+END
+dl-start.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-start.S
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/sysdep.h
+END
+dl-dtprocnum.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-dtprocnum.h
+END
+rshift.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/rshift.S
+END
+backtrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/backtrace.c
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/Implies
+END
+setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/setjmp.S
+END
+libgcc-compat.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/libgcc-compat.S
+END
+bp-asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/bp-asm.h
+END
+add_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/add_n.S
+END
+sub_n.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/sub_n.S
+END
+dl-trampoline.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14459/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-trampoline.S
+END
+bsd-_setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/bsd-_setjmp.S
+END
+strlen.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/strlen.S
+END
+strcmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/strcmp.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/Makefile
+END
+rtld-memset.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/rtld-memset.c
+END
+mul_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/mul_1.S
+END
+dl-machine.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-machine.c
+END
+ppc-mcount.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/ppc-mcount.S
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/configure.in
+END
+addmul_1.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/addmul_1.S
+END
+dl-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-machine.h
+END
+strncmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/strncmp.S
+END
+__longjmp-common.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/__longjmp-common.S
+END
+memset.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/memset.S
+END
+__longjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/__longjmp.S
+END
+strchr.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/strchr.S
+END
+gprrest0.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/gprrest0.S
+END
+gprrest1.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/gprrest1.S
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/Versions
+END
+bsd-setjmp.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/bsd-setjmp.S
+END
+register-dump.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/register-dump.h
+END
+dl-irel.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/dl-irel.h
+END

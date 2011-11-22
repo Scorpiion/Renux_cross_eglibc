@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc64/fpu
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc64/fpu/Implies
+END
+fe_nomask.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc64/fpu/fe_nomask.c
+END
+fe_mask.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/sysv/linux/powerpc/powerpc64/fpu/fe_mask.c
+END

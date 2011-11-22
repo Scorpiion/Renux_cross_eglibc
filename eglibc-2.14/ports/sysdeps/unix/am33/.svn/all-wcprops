@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/am33
+END
+sysdep.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/am33/sysdep.S
+END
+sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/am33/sysdep.h
+END

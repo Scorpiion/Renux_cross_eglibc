@@ -1,0 +1,1901 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu
+END
+e_powf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_powf.S
+END
+w_exp10l.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp10l.c
+END
+e_remainderf.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_remainderf.S
+END
+slowexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/slowexp.c
+END
+w_atan2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atan2f.c
+END
+e_hypotl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_hypotl.S
+END
+s_fma.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fma.S
+END
+s_expm1l.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_expm1l.S
+END
+e_exp2f.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp2f.S
+END
+mptan.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mptan.c
+END
+s_sincos.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sincos.c
+END
+s_isnanf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isnanf.S
+END
+w_acosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acosf.c
+END
+w_exp10.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp10.c
+END
+e_atanhf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atanhf.S
+END
+s_sincosf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sincosf.c
+END
+e_exp10f.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp10f.S
+END
+w_log2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log2.c
+END
+libm_reduce.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_reduce.S
+END
+s_trunc.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_trunc.S
+END
+s_modff.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_modff.S
+END
+e_acoshl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acoshl.S
+END
+s_ilogb.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ilogb.S
+END
+s_roundf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_roundf.S
+END
+e_sinhl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sinhl.S
+END
+s_cosl.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cosl.S
+END
+s_ldexpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ldexpf.c
+END
+s_copysignl.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_copysignl.S
+END
+s_asinhf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_asinhf.S
+END
+w_exp2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp2f.c
+END
+w_log10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log10f.c
+END
+e_atanh.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atanh.S
+END
+s_significand.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_significand.S
+END
+w_scalbf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_scalbf.c
+END
+s_fmal.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fmal.S
+END
+e_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sqrtf.S
+END
+libm_frexpl.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexpl.S
+END
+s_significandf.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_significandf.S
+END
+e_log2.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log2.S
+END
+s_scalbnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_scalbnf.c
+END
+printf_fphex.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/printf_fphex.c
+END
+w_sinhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sinhl.c
+END
+s_fpclassify.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fpclassify.S
+END
+s_cbrtl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cbrtl.S
+END
+s_nexttowardl.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nexttowardl.S
+END
+s_libm_scalbnf.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_scalbnf.S
+END
+s_fabs.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fabs.S
+END
+branred.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/branred.c
+END
+mpa.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mpa.c
+END
+libm_error_codes.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_error_codes.h
+END
+t_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/t_exp.c
+END
+e_fmodf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_fmodf.S
+END
+e_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_rem_pio2.c
+END
+w_atanh.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atanh.c
+END
+w_sqrtf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sqrtf.c
+END
+e_rem_pio2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_rem_pio2f.c
+END
+s_tanf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tanf.S
+END
+e_coshl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_coshl.S
+END
+s_ldexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ldexp.c
+END
+w_expl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_expl.c
+END
+s_matherrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_matherrl.c
+END
+s_tanhf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tanhf.S
+END
+import_diffs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/import_diffs
+END
+feholdexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/feholdexcpt.c
+END
+w_hypotl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_hypotl.c
+END
+w_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log.c
+END
+s_fmaxl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fmaxl.S
+END
+s_sin.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sin.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/README
+END
+libm-symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm-symbols.h
+END
+w_sqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sqrt.c
+END
+s_isinff.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isinff.S
+END
+s_fpclassifyl.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fpclassifyl.S
+END
+e_acosh.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acosh.S
+END
+w_fmodf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_fmodf.c
+END
+s_rintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_rintf.S
+END
+s_erff.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erff.S
+END
+w_lgamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgamma.c
+END
+libc_libm_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libc_libm_error.c
+END
+mpsqrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mpsqrt.c
+END
+import_intel_libm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/import_intel_libm
+END
+w_atanhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atanhf.c
+END
+w_tgammal.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_tgammal.S
+END
+e_atan2.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atan2.S
+END
+w_exp10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp10f.c
+END
+w_pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_pow.c
+END
+e_hypotf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_hypotf.S
+END
+w_coshl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_coshl.c
+END
+w_acoshl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acoshl.c
+END
+w_lgammal.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgammal.c
+END
+s_expm1f.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_expm1f.S
+END
+e_expl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_expl.c
+END
+s_signbitl.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_signbitl.S
+END
+doasin.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/doasin.c
+END
+e_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sqrt.S
+END
+fesetround.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fesetround.c
+END
+w_exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp.c
+END
+w_acosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acosh.c
+END
+k_rem_pio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/k_rem_pio2.c
+END
+e_acoshf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acoshf.S
+END
+s_ceill.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ceill.S
+END
+e_asinl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_asinl.S
+END
+e_sinhf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sinhf.S
+END
+w_atan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atan2.c
+END
+s_cosf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cosf.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/Makefile
+END
+s_fdiml.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fdiml.S
+END
+e_lgammal_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_lgammal_r.c
+END
+libm-test-ulps
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm-test-ulps
+END
+s_nexttoward.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nexttoward.S
+END
+sincos32.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/sincos32.c
+END
+s_copysignf.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_copysignf.S
+END
+e_log2l.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log2l.S
+END
+w_lgamma_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgamma_r.c
+END
+s_frexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_frexp.c
+END
+w_acos.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acos.c
+END
+s_fmaf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fmaf.S
+END
+w_lgammaf_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgammaf_r.c
+END
+fraiseexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fraiseexcpt.c
+END
+libm_frexpf.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexpf.S
+END
+s_rint.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_rint.S
+END
+s_erf.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erf.S
+END
+mpatan.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mpatan.c
+END
+w_cosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_cosh.c
+END
+e_gammal_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_gammal_r.c
+END
+s_logb.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_logb.S
+END
+e_remainder.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_remainder.S
+END
+libm_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_error.c
+END
+w_asinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_asinl.c
+END
+w_sinhf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sinhf.c
+END
+s_cbrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cbrtf.S
+END
+e_log.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log.S
+END
+libm_tan.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_tan.S
+END
+w_log2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log2l.c
+END
+s_nexttowardf.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nexttowardf.S
+END
+e_scalb.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_scalb.S
+END
+e_acos.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acos.S
+END
+s_isnan.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isnan.S
+END
+e_cosh.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_cosh.S
+END
+w_logl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_logl.c
+END
+e_coshf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_coshf.S
+END
+import_check
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/import_check
+END
+w_expf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_expf.c
+END
+e_pow.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_pow.S
+END
+s_matherrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_matherrf.c
+END
+libm_sincos_large.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_sincos_large.S
+END
+math_ldbl.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/math_ldbl.h
+END
+s_tanh.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tanh.S
+END
+libm_lgammal.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_lgammal.S
+END
+ftestexcept.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/ftestexcept.c
+END
+s_floorl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_floorl.S
+END
+w_hypotf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_hypotf.c
+END
+s_signbit.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_signbit.S
+END
+s_logbl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_logbl.S
+END
+k_rem_pio2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/k_rem_pio2l.c
+END
+s_fmaxf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fmaxf.S
+END
+fegetexcept.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fegetexcept.c
+END
+libm_frexp4l.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexp4l.S
+END
+w_remainderl.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_remainderl.c
+END
+s_nearbyintl.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nearbyintl.S
+END
+w_scalb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_scalb.c
+END
+s_fpclassifyf.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fpclassifyf.S
+END
+e_exp.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp.S
+END
+s_fdim.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fdim.S
+END
+e_logl.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_logl.S
+END
+s_frexpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_frexpl.c
+END
+w_tgammaf.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_tgammaf.S
+END
+s_floor.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_floor.S
+END
+libm_support.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_support.h
+END
+e_expf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_expf.S
+END
+w_coshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_coshf.c
+END
+w_acoshf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acoshf.c
+END
+s_round.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_round.S
+END
+w_lgammaf.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgammaf.c
+END
+s_expm1.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_expm1.S
+END
+s_copysign.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_copysign.S
+END
+libm_sincosl.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_sincosl.S
+END
+fegetround.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fegetround.c
+END
+fegetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fegetenv.c
+END
+s_signbitf.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_signbitf.S
+END
+libm_scalblnf.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_scalblnf.S
+END
+w_fmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_fmod.c
+END
+s_ceilf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ceilf.S
+END
+e_asinf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_asinf.S
+END
+s_atan.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_atan.S
+END
+e_log10.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log10.c
+END
+s_fdimf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fdimf.S
+END
+e_log2f.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log2f.S
+END
+fedisblxcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fedisblxcpt.c
+END
+w_log10.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log10.c
+END
+e_fmod.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_fmod.S
+END
+s_isinf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isinf.S
+END
+w_asin.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_asin.c
+END
+dosincos.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/dosincos.c
+END
+libm_lgamma.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_lgamma.S
+END
+e_atan2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atan2l.c
+END
+w_asinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_asinf.c
+END
+s_modf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_modf.S
+END
+s_cbrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cbrt.S
+END
+s_fmax.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fmax.S
+END
+w_log2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log2f.c
+END
+s_atanl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_atanl.S
+END
+feupdateenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/feupdateenv.c
+END
+s_truncl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_truncl.S
+END
+gen_import_file_list
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/gen_import_file_list
+END
+w_logf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_logf.c
+END
+s_nextafterl.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nextafterl.S
+END
+s_ceil.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ceil.S
+END
+e_asin.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_asin.S
+END
+libm_sincos.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_sincos.S
+END
+s_log1p.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_log1p.S
+END
+e_scalbl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_scalbl.S
+END
+s_sinl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sinl.c
+END
+libm_lgammaf.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_lgammaf.S
+END
+s_floorf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_floorf.S
+END
+s_logbf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_logbf.S
+END
+k_rem_pio2f.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/k_rem_pio2f.c
+END
+s_libm_ldexpl.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_ldexpl.S
+END
+s_erfcl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erfcl.S
+END
+s_log1pl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_log1pl.S
+END
+libm_frexp4f.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexp4f.S
+END
+e_log10l.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log10l.c
+END
+w_remainderf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_remainderf.c
+END
+s_nearbyintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nearbyintf.S
+END
+s_libm_scalbn.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_scalbn.S
+END
+e_gamma_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_gamma_r.c
+END
+w_powl.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_powl.c
+END
+s_ilogbl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ilogbl.S
+END
+e_logf.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_logf.S
+END
+s_frexpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_frexpf.c
+END
+w_tgamma.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_tgamma.S
+END
+fgetexcptflg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fgetexcptflg.c
+END
+e_acosl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acosl.S
+END
+libm_sincosf.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_sincosf.S
+END
+s_fabsl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fabsl.S
+END
+s_finitel.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_finitel.S
+END
+fsetexcptflg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fsetexcptflg.c
+END
+s_nextafter.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nextafter.S
+END
+mpatan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mpatan2.c
+END
+e_powl.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_powl.S
+END
+s_scalblnf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_scalblnf.c
+END
+e_remainderl.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_remainderl.S
+END
+w_atan2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atan2l.c
+END
+e_exp2l.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp2l.S
+END
+mplog.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mplog.c
+END
+fesetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fesetenv.c
+END
+s_isnanl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isnanl.S
+END
+e_hypot.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_hypot.S
+END
+w_acosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_acosl.c
+END
+e_lgammaf_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_lgammaf_r.c
+END
+e_atanhl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atanhl.S
+END
+s_sincosl.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sincosl.c
+END
+e_exp10l.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp10l.S
+END
+e_atan2f.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_atan2f.S
+END
+s_modfl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_modfl.S
+END
+s_asinh.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_asinh.S
+END
+w_exp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp2.c
+END
+s_roundl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_roundl.S
+END
+s_ldexpl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ldexpl.c
+END
+e_gammaf_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_gammaf_r.c
+END
+s_asinhl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_asinhl.S
+END
+w_exp2l.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_exp2l.c
+END
+s_libm_ldexp.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_ldexp.S
+END
+s_erfc.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erfc.S
+END
+w_lgammal_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_lgammal_r.c
+END
+s_scalbn.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_scalbn.c
+END
+w_log10l.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_log10l.c
+END
+w_scalbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_scalbl.c
+END
+e_sqrtl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sqrtl.S
+END
+mpexp.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/mpexp.c
+END
+w_hypot.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_hypot.c
+END
+s_atanf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_atanf.S
+END
+s_significandl.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_significandl.S
+END
+s_nearbyint.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nearbyint.S
+END
+s_scalbnl.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_scalbnl.c
+END
+e_exp2.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp2.S
+END
+s_truncf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_truncf.S
+END
+libm_frexp.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexp.S
+END
+s_nextafterf.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_nextafterf.S
+END
+e_scalbf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_scalbf.S
+END
+s_sinf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_sinf.c
+END
+s_libm_scalbnl.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_scalbnl.S
+END
+e_lgamma_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_lgamma_r.c
+END
+s_tan.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tan.S
+END
+e_fmodl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_fmodl.S
+END
+s_cos.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_cos.S
+END
+s_libm_ldexpf.S
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_libm_ldexpf.S
+END
+s_erfcf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erfcf.S
+END
+w_sinh.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sinh.c
+END
+s_log1pf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_log1pf.S
+END
+halfulp.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/halfulp.c
+END
+w_sqrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_sqrtl.c
+END
+e_log10f.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_log10f.c
+END
+w_remainder.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_remainder.c
+END
+s_tanl.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tanl.S
+END
+libm_cpu_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_cpu_defs.h
+END
+w_powf.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_powf.c
+END
+s_ilogbf.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_ilogbf.S
+END
+s_tanhl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_tanhl.S
+END
+import_file.awk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/import_file.awk
+END
+slowpow.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/slowpow.c
+END
+e_acosf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_acosf.S
+END
+s_finite.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_finite.S
+END
+e_exp10.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_exp10.S
+END
+s_fabsf.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_fabsf.S
+END
+e_sinh.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/e_sinh.S
+END
+s_isinfl.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_isinfl.S
+END
+s_finitef.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_finitef.S
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/Versions
+END
+w_fmodl.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_fmodl.c
+END
+s_rintl.S
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_rintl.S
+END
+s_erfl.S
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/s_erfl.S
+END
+fclrexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/fclrexcpt.c
+END
+feenablxcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/feenablxcpt.c
+END
+libm_frexp4.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/libm_frexp4.S
+END
+w_atanhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/ia64/fpu/w_atanhl.c
+END

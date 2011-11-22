@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits
+END
+sockaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/sockaddr.h
+END
+ioctls.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/ioctls.h
+END
+dirent.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/dirent.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/errno.h
+END
+fcntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/fcntl.h
+END
+socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/unix/bsd/bsd4.4/bits/socket.h
+END

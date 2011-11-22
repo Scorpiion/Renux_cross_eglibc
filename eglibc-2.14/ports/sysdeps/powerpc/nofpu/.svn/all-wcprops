@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu
+END
+fsetexcptflg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fsetexcptflg.c
+END
+ftestexcept.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/ftestexcept.c
+END
+libm-test-ulps
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/libm-test-ulps
+END
+fegetround.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fegetround.c
+END
+fegetexcept.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fegetexcept.c
+END
+fegetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fegetenv.c
+END
+fenv_const.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fenv_const.c
+END
+feholdexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/feholdexcpt.c
+END
+soft-supp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/soft-supp.h
+END
+feupdateenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/feupdateenv.c
+END
+fedisblxcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fedisblxcpt.c
+END
+fraiseexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fraiseexcpt.c
+END
+fesetround.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fesetround.c
+END
+fesetenv.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fesetenv.c
+END
+fgetexcptflg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fgetexcptflg.c
+END
+shlib-versions
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/shlib-versions
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/Versions
+END
+sim-full.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/sim-full.c
+END
+fclrexcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fclrexcpt.c
+END
+Subdirs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/Subdirs
+END
+feenablxcpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/feenablxcpt.c
+END
+fenv_libc.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/fenv_libc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/powerpc/nofpu/Makefile
+END

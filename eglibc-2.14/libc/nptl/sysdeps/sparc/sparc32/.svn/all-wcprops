@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/sparc/sparc32
+END
+pthread_spin_trylock.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/sparc/sparc32/pthread_spin_trylock.c
+END
+pthread_spin_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/sparc/sparc32/pthread_spin_lock.c
+END
+pthreaddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/sparc/sparc32/pthreaddef.h
+END

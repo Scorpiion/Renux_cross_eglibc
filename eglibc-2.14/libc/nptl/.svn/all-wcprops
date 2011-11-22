@@ -1,0 +1,2819 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15559/branches/eglibc-2_14/libc/nptl
+END
+tst-cancelx18.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx18.c
+END
+tst-cancel11.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel11.c
+END
+pthread_detach.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_detach.c
+END
+tst-rwlock6.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock6.c
+END
+tst-sem12.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem12.c
+END
+DESIGN-condvar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/DESIGN-condvar.txt
+END
+tst-mutex5a.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex5a.c
+END
+tst-tls5moda.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5moda.c
+END
+pthread_mutexattr_getrobust.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_getrobust.c
+END
+tst-spin2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-spin2.c
+END
+tst-attr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-attr2.c
+END
+pthread_rwlock_rdlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_rdlock.c
+END
+tst-cancel19.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel19.c
+END
+pthread_attr_getschedpolicy.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getschedpolicy.c
+END
+tst-backtrace1.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-backtrace1.c
+END
+tst-vfork1x.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-vfork1x.c
+END
+tst-eintr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-eintr2.c
+END
+tst-cond2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond2.c
+END
+tst-exec1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exec1.c
+END
+tst-basic5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic5.c
+END
+tst-atfork1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-atfork1.c
+END
+tst-sem3.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem3.c
+END
+tst-barrier4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-barrier4.c
+END
+tst-kill1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill1.c
+END
+tst-tsd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd2.c
+END
+pthread_rwlockattr_setpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_setpshared.c
+END
+tst-setuid1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-setuid1.c
+END
+tst-mutexpi4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi4.c
+END
+tst-mutexpi5a.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi5a.c
+END
+pthread_attr_getdetachstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getdetachstate.c
+END
+old_pthread_atfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_atfork.c
+END
+tst-tls3mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls3mod.c
+END
+tst-cond12.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond12.c
+END
+tst-cancel20.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel20.c
+END
+tst-mutex8.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex8.c
+END
+tst-oddstacklimit.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-oddstacklimit.c
+END
+tst-robustpi4.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi4.c
+END
+events.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/events.c
+END
+pthread_mutexattr_setprioceiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_setprioceiling.c
+END
+tst-cancel24.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel24.cc
+END
+pthread_setcancelstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setcancelstate.c
+END
+pthread_mutex_setprioceiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_setprioceiling.c
+END
+tst-popen1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-popen1.c
+END
+tst-robust4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust4.c
+END
+tst-cancelx6.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx6.c
+END
+tst-fini1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fini1.c
+END
+tst-fini1mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fini1mod.c
+END
+tst-cancel3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel3.c
+END
+sigaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sigaction.c
+END
+tst-cleanup3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup3.c
+END
+Makeconfig
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/Makeconfig
+END
+pthread_mutex_consistent.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_consistent.c
+END
+pthread_rwlock_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_unlock.c
+END
+pthread_attr_setschedparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setschedparam.c
+END
+shlib-versions
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/shlib-versions
+END
+tst-cancelx11.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx11.c
+END
+pthread_spin_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_spin_destroy.c
+END
+cleanup_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cleanup_compat.c
+END
+pthread_getspecific.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_getspecific.c
+END
+tst-tls2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls2.c
+END
+tst-cond21.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond21.c
+END
+tst-cancel12.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel12.c
+END
+pthread_condattr_getclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_getclock.c
+END
+tst-rwlock7.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock7.c
+END
+tst-sem13.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem13.c
+END
+old_pthread_cond_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_destroy.c
+END
+tst-tls5modb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5modb.c
+END
+tst-spin3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-spin3.c
+END
+tst-attr3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-attr3.c
+END
+pthread_setspecific.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setspecific.c
+END
+pthread_attr_getinheritsched.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getinheritsched.c
+END
+tst-rwlock10.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock10.c
+END
+tst-setuid1-static.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-setuid1-static.c
+END
+pthread_rwlock_timedwrlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_timedwrlock.c
+END
+pthread_cond_broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_broadcast.c
+END
+tst-eintr3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-eintr3.c
+END
+pthread_attr_setstackaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setstackaddr.c
+END
+tst-context1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-context1.c
+END
+pthread_setresuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setresuid.c
+END
+tst-cond3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond3.c
+END
+tst-exec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exec2.c
+END
+tst-basic6.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic6.c
+END
+tst-atfork2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-atfork2.c
+END
+tst-sem4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem4.c
+END
+pthread_key_delete.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_key_delete.c
+END
+tst-kill2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill2.c
+END
+tst-tsd3.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd3.c
+END
+tst-cancel-wrappers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel-wrappers.sh
+END
+pthread_rwlockattr_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_init.c
+END
+pthread_attr_setinheritsched.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setinheritsched.c
+END
+pthread_attr_setscope.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setscope.c
+END
+tst-cancelx20.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx20.c
+END
+pthread_getcpuclockid.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_getcpuclockid.c
+END
+tst-flock1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-flock1.c
+END
+tst-join1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join1.c
+END
+tst-locale1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-locale1.c
+END
+tst-mutexpi5.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi5.c
+END
+tst-unload.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-unload.c
+END
+pthread_condattr_getpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_getpshared.c
+END
+tst-mutex1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex1.c
+END
+tst-cond13.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond13.c
+END
+tst-cancel21.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel21.c
+END
+errno-loc.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/errno-loc.c
+END
+tst-mutex9.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex9.c
+END
+pthread_attr_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_init.c
+END
+tst-robustpi5.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi5.c
+END
+tst-signal1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal1.c
+END
+pthread_seteuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_seteuid.c
+END
+tst-vfork2x.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-vfork2x.c
+END
+tst-robust5.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust5.c
+END
+tst-cancelx7.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx7.c
+END
+cond-perf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cond-perf.c
+END
+tst-cancel4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel4.c
+END
+tst-cleanup4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup4.c
+END
+tst-cancelx12.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx12.c
+END
+DESIGN-sem.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/DESIGN-sem.txt
+END
+tst-tls3.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls3.c
+END
+tst-cond22.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond22.c
+END
+pthread_self.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_self.c
+END
+tst-cancel13.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel13.c
+END
+tst-rwlock8.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock8.c
+END
+tst-align.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-align.c
+END
+tst-exit1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exit1.c
+END
+tst-tls5modc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5modc.c
+END
+pthread_setuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setuid.c
+END
+forward.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/forward.c
+END
+tst-typesizes.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-typesizes.c
+END
+tst-rwlock11.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock11.c
+END
+tst-eintr4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-eintr4.c
+END
+tst-cond4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond4.c
+END
+tst-exec3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exec3.c
+END
+tst-basic7.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic7.c
+END
+tst-sem5.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem5.c
+END
+pthread_attr_setstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setstack.c
+END
+pthread_mutex_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_destroy.c
+END
+pthread_attr_setschedpolicy.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setschedpolicy.c
+END
+pthread_mutexattr_getprotocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_getprotocol.c
+END
+tst-kill3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill3.c
+END
+tst-tsd4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd4.c
+END
+tst-cancelx21.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx21.c
+END
+tst-flock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-flock2.c
+END
+tst-join2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join2.c
+END
+tst-locale2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-locale2.c
+END
+tst-mutexpi6.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi6.c
+END
+pthread_rwlock_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14285/branches/eglibc-2_14/libc/nptl/pthread_rwlock_init.c
+END
+tst-abstime.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-abstime.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/Makefile
+END
+cleanup_routine.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cleanup_routine.c
+END
+tst-mutex2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex2.c
+END
+tst-raise1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-raise1.c
+END
+TODO-testing
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/TODO-testing
+END
+tst-cond14.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond14.c
+END
+tst-cancel22.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel22.c
+END
+pthread_mutexattr_setprotocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_setprotocol.c
+END
+pthread_rwlock_tryrdlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_tryrdlock.c
+END
+tst-robustpi6.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi6.c
+END
+pthread_attr_setdetachstate.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setdetachstate.c
+END
+tst-stackguard1-static.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stackguard1-static.c
+END
+tst-initializers1-gnu89.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-initializers1-gnu89.c
+END
+tst-oncex3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-oncex3.c
+END
+tst-signal2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal2.c
+END
+semaphoreP.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/semaphoreP.h
+END
+pt-cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pt-cleanup.c
+END
+tst-robust6.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust6.c
+END
+tst-cancelx8.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx8.c
+END
+nptl-init.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15559/branches/eglibc-2_14/libc/nptl/nptl-init.c
+END
+pthread_getschedparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_getschedparam.c
+END
+pthread_mutex_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_lock.c
+END
+tst-cancel5.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel5.c
+END
+pthread_mutex_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_unlock.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/version.c
+END
+tst-cancelx13.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx13.c
+END
+pthread_timedjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_timedjoin.c
+END
+tst-fork1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fork1.c
+END
+tst-rwlock1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock1.c
+END
+pthread_setreuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setreuid.c
+END
+perf.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/perf.c
+END
+pthread_barrierattr_getpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrierattr_getpshared.c
+END
+tst-tls4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls4.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/configure
+END
+tst-cond23.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond23.c
+END
+pthread_attr_getstackaddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getstackaddr.c
+END
+tst-cancel14.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel14.c
+END
+tst-mutex7a.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex7a.c
+END
+tst-rwlock9.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock9.c
+END
+tst-exit2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exit2.c
+END
+tst-tls5modd.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5modd.c
+END
+pthread_barrier_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrier_destroy.c
+END
+pthread_join.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_join.c
+END
+pthread_attr_getscope.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getscope.c
+END
+tst-rwlock12.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock12.c
+END
+tst-eintr5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-eintr5.c
+END
+tst-cond5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond5.c
+END
+tst-exec4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exec4.c
+END
+eintr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/eintr.c
+END
+tst-stackguard1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stackguard1.c
+END
+pthread_key_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_key_create.c
+END
+tst-sem6.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem6.c
+END
+old_pthread_cond_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_signal.c
+END
+tst-kill4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill4.c
+END
+tst-tsd5.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd5.c
+END
+tst-join3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join3.c
+END
+tst-mutexpi7.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi7.c
+END
+pthread_once.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_once.c
+END
+tst-mutexpi7a.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi7a.c
+END
+pthread_mutex_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_init.c
+END
+herrno.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/herrno.c
+END
+tst-mutex3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex3.c
+END
+tst-cond15.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond15.c
+END
+tst-cancel23.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel23.c
+END
+TODO-kernel
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/TODO-kernel
+END
+unwind.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/unwind.c
+END
+DESIGN-rwlock.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/DESIGN-rwlock.txt
+END
+tst-getpid1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-getpid1.c
+END
+tst-cancelx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx1.c
+END
+tst-robustpi7.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi7.c
+END
+tst-cleanupx0.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx0.c
+END
+pthread_condattr_setpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_setpshared.c
+END
+tst-oncex4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-oncex4.c
+END
+tst-signal3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal3.c
+END
+pthread_setcanceltype.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setcanceltype.c
+END
+old_pthread_cond_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_init.c
+END
+pthread_cond_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_init.c
+END
+pthread_mutexattr_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_destroy.c
+END
+tst-robust7.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust7.c
+END
+tst-cancelx9.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx9.c
+END
+tst-sched1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sched1.c
+END
+sem_getvalue.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_getvalue.c
+END
+tst-tpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tpp.h
+END
+tst-detach1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-detach1.c
+END
+tst-dlsym1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-dlsym1.c
+END
+tst-cancel6.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel6.c
+END
+pthread-errnos.sym
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread-errnos.sym
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/TODO
+END
+pthread_rwlock_wrlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_wrlock.c
+END
+tst-cancelx14.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx14.c
+END
+tst-fork2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fork2.c
+END
+tst-rwlock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock2.c
+END
+cleanup_defer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cleanup_defer.c
+END
+tst-stack1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stack1.c
+END
+tst-tls5.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5.c
+END
+pthread_cond_timedwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_timedwait.c
+END
+tst-cancel15.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel15.c
+END
+pthread_setschedprio.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setschedprio.c
+END
+pthread_cond_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_destroy.c
+END
+tst-exit3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-exit3.c
+END
+tst-tls5.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5.h
+END
+tst-tls5mode.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5mode.c
+END
+pthread_rwlockattr_getkind_np.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_getkind_np.c
+END
+pthread_attr_getstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getstack.c
+END
+tst-initializers1-gnu99.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-initializers1-gnu99.c
+END
+tst-basic1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic1.c
+END
+old_pthread_cond_broadcast.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_broadcast.c
+END
+pthread_mutexattr_getpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_getpshared.c
+END
+tst-once1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-once1.c
+END
+tst-rwlock13.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock13.c
+END
+pthread_mutexattr_setrobust.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_setrobust.c
+END
+tst-atfork2mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-atfork2mod.c
+END
+tst-cond6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond6.c
+END
+tst-key1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-key1.c
+END
+tst-sem7.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem7.c
+END
+tst-cleanup0.expect
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup0.expect
+END
+pthread_mutexattr_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_init.c
+END
+tst-kill5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill5.c
+END
+tst-tsd6.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd6.c
+END
+pthread_attr_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_destroy.c
+END
+tst-join4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join4.c
+END
+tst-mutexpi8.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi8.c
+END
+pthread_cancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cancel.c
+END
+tst-rwlock2a.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock2a.c
+END
+tst-mutex4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex4.c
+END
+pthread_barrierattr_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrierattr_destroy.c
+END
+tst-cond16.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond16.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/15559/branches/eglibc-2_14/libc/nptl/ChangeLog
+END
+tst-getpid2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-getpid2.c
+END
+tst-cancelx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx2.c
+END
+tst-robustpi8.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi8.c
+END
+tst-cleanupx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx1.c
+END
+pthread_attr_getschedparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getschedparam.c
+END
+sem_close.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_close.c
+END
+tst-signal4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal4.c
+END
+pthread_attr_setguardsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setguardsize.c
+END
+pthread_create.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_create.c
+END
+pthreadP.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14663/branches/eglibc-2_14/libc/nptl/pthreadP.h
+END
+old_pthread_cond_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_wait.c
+END
+pthread_attr_setstacksize.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_setstacksize.c
+END
+pthread_cond_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_wait.c
+END
+tst-robust8.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust8.c
+END
+pthread_clock_gettime.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_clock_gettime.c
+END
+tst-cancel7.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel7.c
+END
+res.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/res.c
+END
+tst-cancelx15.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx15.c
+END
+pthread_clock_settime.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_clock_settime.c
+END
+tst-fork3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fork3.c
+END
+tst-rwlock3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock3.c
+END
+tst-stack2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stack2.c
+END
+tst-tls4moda.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls4moda.c
+END
+pthread_setresgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setresgid.c
+END
+tst-mutexpp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpp6.c
+END
+pthread_getconcurrency.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_getconcurrency.c
+END
+tst-cancel16.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel16.c
+END
+pthread_tryjoin.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_tryjoin.c
+END
+tst-tls5modf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5modf.c
+END
+pthread_barrierattr_setpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrierattr_setpshared.c
+END
+tst-basic2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic2.c
+END
+tst-once2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-once2.c
+END
+tst-rwlock14.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock14.c
+END
+tst-barrier1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-barrier1.c
+END
+tst-cond7.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond7.c
+END
+tst-execstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-execstack.c
+END
+tst-key2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-key2.c
+END
+tst-mutexpi1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi1.c
+END
+tst-sem8.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem8.c
+END
+pthread_cond_signal.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_cond_signal.c
+END
+pthread_rwlock_timedrdlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_timedrdlock.c
+END
+tst-kill6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-kill6.c
+END
+pthread_setegid.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setegid.c
+END
+tst-join5.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join5.c
+END
+tst-mutexpi9.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi9.c
+END
+pthread_atfork.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_atfork.c
+END
+tst-mutex5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex5.c
+END
+tst-tls5mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls5mod.c
+END
+tst-robustpi1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi1.c
+END
+tst-cond17.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond17.c
+END
+tst-cancel25.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel25.c
+END
+sem_unlink.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_unlink.c
+END
+sem_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_open.c
+END
+tst-getpid3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-getpid3.c
+END
+tst-robust1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust1.c
+END
+tst-cancelx3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx3.c
+END
+tst-robustpi9.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi9.c
+END
+tst-cleanupx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx2.c
+END
+tst-signal5.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal5.c
+END
+tst-stdio1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stdio1.c
+END
+tst-cleanup0.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup0.c
+END
+tst-robust9.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust9.c
+END
+tst-vfork1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-vfork1.c
+END
+Banner
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/Banner
+END
+tst-cancel8.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel8.c
+END
+pthread_setgid.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setgid.c
+END
+pthread_spin_unlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_spin_unlock.c
+END
+tst-cancelx16.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx16.c
+END
+pthread_testcancel.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_testcancel.c
+END
+sem_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_destroy.c
+END
+tst-fork4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-fork4.c
+END
+tst-rwlock4.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock4.c
+END
+tst-sem10.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem10.c
+END
+tst-execstack-mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-execstack-mod.c
+END
+tst-initializers1-c89.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-initializers1-c89.c
+END
+tst-stack3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stack3.c
+END
+tst-tls4modb.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls4modb.c
+END
+alloca_cutoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/alloca_cutoff.c
+END
+tst-cancel17.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel17.c
+END
+pthread_mutexattr_gettype.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_gettype.c
+END
+pthread_rwlockattr_getpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_getpshared.c
+END
+tst-umask1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-umask1.c
+END
+tst-basic3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic3.c
+END
+tst-cleanupx0.expect
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx0.expect
+END
+pthread_kill_other_threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_kill_other_threads.c
+END
+tst-sem1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem1.c
+END
+tst-once3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-once3.c
+END
+tst-barrier2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-barrier2.c
+END
+pthread_barrier_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrier_init.c
+END
+pthread_rwlockattr_setkind_np.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_setkind_np.c
+END
+pthread_mutexattr_settype.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_settype.c
+END
+tst-cond8.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond8.c
+END
+tst-key3.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-key3.c
+END
+tst-align2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-align2.c
+END
+tst-mutexpi2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi2.c
+END
+tst-sem9.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem9.c
+END
+pthread_mutexattr_setpshared.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_setpshared.c
+END
+pthread_rwlock_trywrlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_trywrlock.c
+END
+pthread_mutexattr_getprioceiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutexattr_getprioceiling.c
+END
+cancellation.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cancellation.c
+END
+tst-cond10.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond10.c
+END
+pthread_mutex_getprioceiling.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_getprioceiling.c
+END
+tst-join6.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-join6.c
+END
+pthread_attr_getguardsize.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getguardsize.c
+END
+cleanup_defer_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cleanup_defer_compat.c
+END
+tst-initializers1.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-initializers1.c
+END
+tst-mutex6.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex6.c
+END
+tst-cleanup4aux.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup4aux.c
+END
+pthread_attr_getstacksize.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_attr_getstacksize.c
+END
+tst-robustpi2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi2.c
+END
+tst-_res1mod1.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-_res1mod1.c
+END
+tpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tpp.c
+END
+tst-cond18.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond18.c
+END
+descr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15559/branches/eglibc-2_14/libc/nptl/descr.h
+END
+sem_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sem_init.c
+END
+pthread_condattr_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_init.c
+END
+tst-robust2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust2.c
+END
+tst-cancelx4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx4.c
+END
+tst-cleanupx3.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx3.c
+END
+tst-mutexpp10.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpp10.c
+END
+tst-signal6.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal6.c
+END
+sockperf.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sockperf.c
+END
+tst-stdio2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-stdio2.c
+END
+pthread_setregid.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setregid.c
+END
+tst-cancel1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel1.c
+END
+pthread_equal.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_equal.c
+END
+tst-cleanup1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup1.c
+END
+pthread_exit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_exit.c
+END
+tst-vfork2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-vfork2.c
+END
+pt-allocrtsig.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pt-allocrtsig.c
+END
+tst-clock1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-clock1.c
+END
+ANNOUNCE
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/ANNOUNCE
+END
+tst-cancel9.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel9.c
+END
+pthread_setschedparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setschedparam.c
+END
+tst-cancelx17.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx17.c
+END
+tst-cancel10.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel10.c
+END
+tst-rwlock5.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-rwlock5.c
+END
+tst-sem11.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem11.c
+END
+old_pthread_cond_timedwait.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/old_pthread_cond_timedwait.c
+END
+tst-spin1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-spin1.c
+END
+tst-attr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-attr1.c
+END
+tst-cancel18.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel18.c
+END
+tst-eintr1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-eintr1.c
+END
+pthread_barrierattr_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrierattr_init.c
+END
+vars.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/vars.c
+END
+pthread_rwlockattr_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlockattr_destroy.c
+END
+pthread_condattr_setclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_setclock.c
+END
+tst-cond1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond1.c
+END
+tst-basic4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-basic4.c
+END
+pthread_setconcurrency.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_setconcurrency.c
+END
+pthread_getattr_np.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_getattr_np.c
+END
+tst-sem2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sem2.c
+END
+tst-once4.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-once4.c
+END
+tst-barrier3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-barrier3.c
+END
+tst-_res1.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-_res1.c
+END
+pthread_barrier_wait.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_barrier_wait.c
+END
+tst-tsd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tsd1.c
+END
+pt-raise.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pt-raise.c
+END
+tst-cond9.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond9.c
+END
+tst-key4.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-key4.c
+END
+tst-align3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-align3.c
+END
+tst-mutexpi3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpi3.c
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/semaphore.h
+END
+tst-sysconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-sysconf.c
+END
+tst-cond11.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond11.c
+END
+libc-cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/libc-cleanup.c
+END
+pthread_condattr_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_condattr_destroy.c
+END
+tst-initializers1-c99.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-initializers1-c99.c
+END
+tst-mutex7.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutex7.c
+END
+tst-robustpi3.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robustpi3.c
+END
+tst-_res1mod2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-_res1mod2.c
+END
+pthread_spin_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_spin_init.c
+END
+libc-cancellation.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/libc-cancellation.c
+END
+pthread_mutex_timedlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_timedlock.c
+END
+pt-system.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pt-system.c
+END
+tst-cond19.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond19.c
+END
+lowlevellock.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/lowlevellock.h
+END
+tst-robust3.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-robust3.c
+END
+tst-cancelx5.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx5.c
+END
+allocatestack.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15559/branches/eglibc-2_14/libc/nptl/allocatestack.c
+END
+tst-cleanupx4.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanupx4.c
+END
+tst-signal7.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-signal7.c
+END
+tst-cancel2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancel2.c
+END
+pthread_mutex_trylock.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_mutex_trylock.c
+END
+tst-cleanup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cleanup2.c
+END
+pthread_rwlock_destroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/pthread_rwlock_destroy.c
+END
+tst-clock2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-clock2.c
+END
+tst-cancelx10.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cancelx10.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/Versions
+END
+cleanup.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/cleanup.c
+END
+tst-tls6.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls6.sh
+END
+DESIGN-barrier.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/DESIGN-barrier.txt
+END
+tst-mutexpp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-mutexpp1.c
+END
+tst-tls1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-tls1.c
+END
+tst-cond20.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/tst-cond20.c
+END

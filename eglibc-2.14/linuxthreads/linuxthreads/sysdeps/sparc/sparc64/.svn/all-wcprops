@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/sparc64
+END
+pspinlock.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/sparc64/pspinlock.c
+END
+Versions
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/sparc64/Versions
+END
+pt-machine.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/sparc/sparc64/pt-machine.h
+END
