@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power5/fpu
+END
+w_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power5/fpu/w_sqrt.S
+END
+s_isnanf.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power5/fpu/s_isnanf.S
+END
+w_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power5/fpu/w_sqrtf.S
+END
+s_isnan.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power5/fpu/s_isnan.S
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/switch/bits
+END
+mathinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m68k/m680x0/fpu/switch/bits/mathinline.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m88k
+END
+ffs.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m88k/ffs.c
+END
+add_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m88k/add_n.s
+END
+sub_n.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m88k/sub_n.s
+END
+mul_1.s
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/m88k/mul_1.s
+END

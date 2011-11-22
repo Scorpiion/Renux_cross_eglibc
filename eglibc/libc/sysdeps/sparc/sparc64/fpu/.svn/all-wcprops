@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu
+END
+libm-test-ulps
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu/libm-test-ulps
+END
+s_fabsf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu/s_fabsf.c
+END
+e_sqrtl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu/e_sqrtl.c
+END
+s_fabsl.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu/s_fabsl.c
+END
+s_fabs.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/sparc/sparc64/fpu/s_fabs.c
+END

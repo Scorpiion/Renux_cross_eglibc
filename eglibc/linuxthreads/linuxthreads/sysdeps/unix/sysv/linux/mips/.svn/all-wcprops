@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/mips
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/mips/sysdep-cancel.h
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/mips/vfork.S
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/mips/Makefile
+END

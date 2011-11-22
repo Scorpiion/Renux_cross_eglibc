@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev6/fpu
+END
+e_sqrtf.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev6/fpu/e_sqrtf.S
+END
+e_sqrt.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/alpha/alphaev6/fpu/e_sqrt.S
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu
+END
+s_isnanf.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_isnanf.S
+END
+s_llround.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_llround.S
+END
+s_copysignf.S
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_copysignf.S
+END
+s_llrint.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_llrint.S
+END
+s_llroundf.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_llroundf.S
+END
+s_isnan.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_isnan.S
+END
+s_llrintf.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_llrintf.S
+END
+s_copysign.S
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/sysdeps/powerpc/powerpc32/power6/fpu/s_copysign.S
+END

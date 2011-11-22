@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/bits
+END
+sigthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/bits/sigthread.h
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/bits/local_lim.h
+END
+posix_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/bits/posix_opt.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/Implies
+END
+s_signbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/s_signbit.c
+END
+addmul_1.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/addmul_1.s
+END
+submul_1.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/submul_1.s
+END
+udiv_qrnnd.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/udiv_qrnnd.s
+END
+mul_1.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/hppa/hppa1.1/mul_1.s
+END

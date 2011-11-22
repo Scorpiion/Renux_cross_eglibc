@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/bits
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/bits/local_lim.h
+END
+posix_opt.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/bits/posix_opt.h
+END

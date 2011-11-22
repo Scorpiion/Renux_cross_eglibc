@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits/pthreadtypes.h
+END
+initspin.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits/initspin.h
+END
+libc-lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits/libc-lock.h
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits/typesizes.h
+END
+libc-tsd.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/pthread/bits/libc-tsd.h
+END

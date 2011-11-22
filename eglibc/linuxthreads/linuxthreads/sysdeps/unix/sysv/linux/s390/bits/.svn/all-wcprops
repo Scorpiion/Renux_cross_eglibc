@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/s390/bits
+END
+typesizes.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14284/branches/eglibc-2_14/linuxthreads/linuxthreads/sysdeps/unix/sysv/linux/s390/bits/typesizes.h
+END

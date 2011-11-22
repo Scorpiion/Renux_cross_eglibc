@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386
+END
+sysdep-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/sysdep-cancel.h
+END
+clone.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/clone.S
+END
+fork.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/fork.c
+END
+pthread_spin_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/pthread_spin_init.c
+END
+smp.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/smp.h
+END
+vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/vfork.S
+END
+lowlevellock.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/lowlevellock.h
+END
+pt-vfork.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/pt-vfork.S
+END
+not-cancel.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/not-cancel.h
+END
+dl-sysdep.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/dl-sysdep.h
+END
+pthread_once.S
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/pthread_once.S
+END
+pthread_spin_unlock.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/pthread_spin_unlock.S
+END
+createthread.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/createthread.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/i386/Makefile
+END

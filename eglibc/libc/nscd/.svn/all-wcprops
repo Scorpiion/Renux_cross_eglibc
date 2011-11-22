@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/nscd
+END
+nscd_setup_thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_setup_thread.c
+END
+getpwnam_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getpwnam_r.c
+END
+nscd_getserv_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_getserv_r.c
+END
+nscd-client.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd-client.h
+END
+getpwuid_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getpwuid_r.c
+END
+nscd_initgroups.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_initgroups.c
+END
+grpcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/grpcache.c
+END
+aicache.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/aicache.c
+END
+getgrgid_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getgrgid_r.c
+END
+nscd_getpw_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_getpw_r.c
+END
+Depend
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/Depend
+END
+gethstbyad_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/gethstbyad_r.c
+END
+nscd_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_proto.h
+END
+connections.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/connections.c
+END
+getgrnam_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getgrnam_r.c
+END
+nscd_helper.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_helper.c
+END
+nscd.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15225/branches/eglibc-2_14/libc/nscd/nscd.c
+END
+gethstbynm3_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/gethstbynm3_r.c
+END
+nscd.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd.h
+END
+nis_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nis_hash.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14657/branches/eglibc-2_14/libc/nscd/Makefile
+END
+dbg_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/dbg_log.c
+END
+nscd_getgr_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_getgr_r.c
+END
+nscd_getai.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_getai.c
+END
+gai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/gai.c
+END
+dbg_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/dbg_log.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/cache.c
+END
+res_hconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/res_hconf.c
+END
+servicescache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/servicescache.c
+END
+nscd.init
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd.init
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/mem.c
+END
+pwdcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/pwdcache.c
+END
+initgrcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/initgrcache.c
+END
+getsrvbynm_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getsrvbynm_r.c
+END
+hstcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/hstcache.c
+END
+nscd_stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_stat.c
+END
+nscd_gethst_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_gethst_r.c
+END
+selinux.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/selinux.c
+END
+nscd.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd.conf
+END
+getsrvbypt_r.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/getsrvbypt_r.c
+END
+nscd_conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/nscd_conf.c
+END
+selinux.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nscd/selinux.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/powerpc/bits
+END
+local_lim.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/powerpc/bits/local_lim.h
+END
+pthreadtypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/powerpc/bits/pthreadtypes.h
+END
+semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/nptl/sysdeps/unix/sysv/linux/powerpc/bits/semaphore.h
+END

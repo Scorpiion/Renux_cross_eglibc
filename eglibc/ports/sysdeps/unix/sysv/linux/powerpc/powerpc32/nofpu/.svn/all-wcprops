@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/powerpc/powerpc32/nofpu
+END
+swapcontext.S
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/powerpc/powerpc32/nofpu/swapcontext.S
+END
+setcontext.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/powerpc/powerpc32/nofpu/setcontext.S
+END
+Implies
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/powerpc/powerpc32/nofpu/Implies
+END
+getcontext.S
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14284/branches/eglibc-2_14/ports/sysdeps/unix/sysv/linux/powerpc/powerpc32/nofpu/getcontext.S
+END

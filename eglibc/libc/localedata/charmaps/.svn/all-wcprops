@@ -1,0 +1,1397 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps
+END
+IBM1124
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1124
+END
+ISO_6937
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_6937
+END
+JIS_C6229-1984-B-ADD
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-B-ADD
+END
+IBM1047
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1047
+END
+IBM1129
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1129
+END
+JIS_C6229-1984-KANA
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-KANA
+END
+MACINTOSH
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MACINTOSH
+END
+EUC-KR
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EUC-KR
+END
+VISCII
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/VISCII
+END
+BS_VIEWDATA
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/BS_VIEWDATA
+END
+RK1048
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/RK1048
+END
+HP-GREEK8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/HP-GREEK8
+END
+ISO_10646
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_10646
+END
+CSA_Z243.4-1985-1
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CSA_Z243.4-1985-1
+END
+CSA_Z243.4-1985-2
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CSA_Z243.4-1985-2
+END
+NC_NC00-10
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NC_NC00-10
+END
+ASMO_449
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ASMO_449
+END
+EUC-JP-MS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EUC-JP-MS
+END
+ISO-8859-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-1
+END
+IBM256
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM256
+END
+ISO-8859-2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-2
+END
+KSC5636
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KSC5636
+END
+ISO-8859-3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-3
+END
+ISO-8859-4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-4
+END
+ISO-8859-5
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-5
+END
+ISO-8859-6
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-6
+END
+IBM891
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM891
+END
+ISO-8859-7
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-7
+END
+EBCDIC-FI-SE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-FI-SE
+END
+ISO-8859-8
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-8
+END
+GEORGIAN-PS
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GEORGIAN-PS
+END
+CP1125
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1125
+END
+ISO-8859-9
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-9
+END
+ISO_8859-SUPP
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_8859-SUPP
+END
+IBM1132
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1132
+END
+IBM1133
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1133
+END
+SHIFT_JISX0213
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SHIFT_JISX0213
+END
+JOHAB
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JOHAB
+END
+SAMI
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SAMI
+END
+IBM500
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM500
+END
+EBCDIC-ES-A
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-ES-A
+END
+IBM420
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM420
+END
+BIG5-HKSCS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/BIG5-HKSCS
+END
+IBM423
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM423
+END
+GREEK7-OLD
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GREEK7-OLD
+END
+IBM424
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM424
+END
+GREEK-CCITT
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GREEK-CCITT
+END
+INIS
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/INIS
+END
+SAMI-WS2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SAMI-WS2
+END
+IBM903
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM903
+END
+EUC-TW
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EUC-TW
+END
+IBM904
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM904
+END
+IBM905
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM905
+END
+ES
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ES
+END
+DIN_66003
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/DIN_66003
+END
+NEXTSTEP
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NEXTSTEP
+END
+ISO_5427
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_5427
+END
+ISO_5428
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_5428
+END
+MAC-UK
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MAC-UK
+END
+EBCDIC-ES-S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-ES-S
+END
+EBCDIC-DK-NO
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-DK-NO
+END
+MIK
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MIK
+END
+BS_4730
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/BS_4730
+END
+NATS-DANO
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NATS-DANO
+END
+NF_Z_62-010_1973
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NF_Z_62-010_1973
+END
+WINDOWS-31J
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/WINDOWS-31J
+END
+HP-TURKISH8
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/HP-TURKISH8
+END
+KOI-8
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KOI-8
+END
+CP10007
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP10007
+END
+T.61-7BIT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/T.61-7BIT
+END
+EBCDIC-DK-NO-A
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-DK-NO-A
+END
+CP770
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP770
+END
+GB2312
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GB2312
+END
+IBM037
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM037
+END
+CP771
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP771
+END
+IBM038
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM038
+END
+CP772
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP772
+END
+IBM273
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM273
+END
+CP773
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP773
+END
+IBM274
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM274
+END
+CP774
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP774
+END
+IBM437
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM437
+END
+IBM275
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM275
+END
+CP775
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP775
+END
+PT2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/PT2
+END
+ANSI_X3.110-1983
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ANSI_X3.110-1983
+END
+EBCDIC-IS-FRISS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-IS-FRISS
+END
+IBM277
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM277
+END
+ISO_6937-2-ADD
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_6937-2-ADD
+END
+IBM278
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM278
+END
+IBM918
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM918
+END
+NATS-DANO-ADD
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NATS-DANO-ADD
+END
+ECMA-CYRILLIC
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ECMA-CYRILLIC
+END
+EBCDIC-ES
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-ES
+END
+EBCDIC-AT-DE-A
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-AT-DE-A
+END
+JIS_X0201
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_X0201
+END
+ISO-IR-197
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-IR-197
+END
+ISO_10367-BOX
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_10367-BOX
+END
+EBCDIC-UK
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-UK
+END
+IEC_P27-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IEC_P27-1
+END
+ES2
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ES2
+END
+ISO_11548-1
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_11548-1
+END
+INVARIANT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/INVARIANT
+END
+EBCDIC-US
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-US
+END
+IBM280
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM280
+END
+IBM281
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM281
+END
+UTF-8
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/UTF-8
+END
+IBM922
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM922
+END
+TIS-620
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/TIS-620
+END
+IBM284
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM284
+END
+MSZ_7795.3
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MSZ_7795.3
+END
+IBM285
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM285
+END
+MAC-CENTRALEUROPE
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MAC-CENTRALEUROPE
+END
+CP949
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP949
+END
+ISIRI-3342
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISIRI-3342
+END
+ISO_5427-EXT
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_5427-EXT
+END
+ISO-IR-209
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-IR-209
+END
+JIS_C6229-1984-HAND-ADD
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-HAND-ADD
+END
+TSCII
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/TSCII
+END
+IBM1004
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1004
+END
+EBCDIC-FR
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-FR
+END
+IBM1160
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1160
+END
+NATS-SEFI-ADD
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NATS-SEFI-ADD
+END
+IBM1161
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1161
+END
+IBM1162
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1162
+END
+IBM1163
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1163
+END
+CWI
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CWI
+END
+SHIFT_JIS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SHIFT_JIS
+END
+IBM1164
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1164
+END
+GREEK7
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GREEK7
+END
+ISO_646.IRV
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_646.IRV
+END
+GEORGIAN-ACADEMY
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GEORGIAN-ACADEMY
+END
+ARMSCII-8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ARMSCII-8
+END
+EUC-JISX0213
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EUC-JISX0213
+END
+KOI8-RU
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KOI8-RU
+END
+LATIN-GREEK-1
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/LATIN-GREEK-1
+END
+IBM290
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM290
+END
+ISO_2033-1983
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_2033-1983
+END
+IBM850
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM850
+END
+IBM851
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM851
+END
+ISO_6937-2-25
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_6937-2-25
+END
+IBM852
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM852
+END
+MAC-CYRILLIC
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MAC-CYRILLIC
+END
+IBM855
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM855
+END
+IBM297
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM297
+END
+BRF
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/BRF
+END
+IBM856
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM856
+END
+IBM857
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM857
+END
+PT154
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/PT154
+END
+HP-THAI8
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/HP-THAI8
+END
+PT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/PT
+END
+ISO_8859-1,GL
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_8859-1,GL
+END
+MAC-SAMI
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MAC-SAMI
+END
+T.61-8BIT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/T.61-8BIT
+END
+JUS_I.B1.003-SERB
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JUS_I.B1.003-SERB
+END
+IBM860
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM860
+END
+IBM861
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM861
+END
+IBM862
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM862
+END
+IBM863
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM863
+END
+IBM864
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM864
+END
+ISO_646.BASIC
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO_646.BASIC
+END
+MAC-IS
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/MAC-IS
+END
+IBM865
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM865
+END
+CP1250
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1250
+END
+JUS_I.B1.002
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JUS_I.B1.002
+END
+IBM866
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM866
+END
+CP1251
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1251
+END
+CP1252
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1252
+END
+IT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IT
+END
+IBM868
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM868
+END
+CP1253
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1253
+END
+IBM869
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM869
+END
+CP1254
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1254
+END
+JIS_C6220-1969-JP
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6220-1969-JP
+END
+CP1255
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1255
+END
+IBM866NAV
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM866NAV
+END
+IBM1026
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM1026
+END
+CP1256
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1256
+END
+CP1257
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1257
+END
+GOST_19768-74
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GOST_19768-74
+END
+CP1258
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP1258
+END
+ISO-8859-10
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-10
+END
+ISO-8859-11
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-11
+END
+JIS_C6220-1969-RO
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6220-1969-RO
+END
+ISO-8859-13
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-13
+END
+ISO-8859-14
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-14
+END
+TCVN5712-1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/TCVN5712-1
+END
+ISO-8859-15
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-15
+END
+ISO-8859-16
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-16
+END
+EBCDIC-PT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-PT
+END
+NS_4551-1
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NS_4551-1
+END
+NS_4551-2
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NS_4551-2
+END
+EBCDIC-AT-DE
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-AT-DE
+END
+NF_Z_62-010
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NF_Z_62-010
+END
+LATIN-GREEK
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/LATIN-GREEK
+END
+CP737
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CP737
+END
+GBK
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GBK
+END
+CSA_Z243.4-1985-GR
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CSA_Z243.4-1985-GR
+END
+SEN_850200_B
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SEN_850200_B
+END
+SEN_850200_C
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/SEN_850200_C
+END
+IBM870
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM870
+END
+IBM871
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM871
+END
+CSN_369103
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/CSN_369103
+END
+HP-ROMAN8
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/HP-ROMAN8
+END
+T.101-G2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/T.101-G2
+END
+IBM874
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM874
+END
+HP-ROMAN9
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/HP-ROMAN9
+END
+INIS-CYRILLIC
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/INIS-CYRILLIC
+END
+IBM875
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM875
+END
+ANSI_X3.4-1968
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ANSI_X3.4-1968
+END
+ISO-8859-9E
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-8859-9E
+END
+EBCDIC-IT
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-IT
+END
+EUC-JP
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EUC-JP
+END
+GB18030
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GB18030
+END
+JIS_C6229-1984-HAND
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-HAND
+END
+BIG5
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/BIG5
+END
+DS_2089
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/DS_2089
+END
+EBCDIC-FI-SE-A
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-FI-SE-A
+END
+ISO-IR-90
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/ISO-IR-90
+END
+VIDEOTEX-SUPPL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/VIDEOTEX-SUPPL
+END
+NATS-SEFI
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/NATS-SEFI
+END
+JIS_C6229-1984-A
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-A
+END
+JIS_C6229-1984-B
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JIS_C6229-1984-B
+END
+EBCDIC-CA-FR
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/EBCDIC-CA-FR
+END
+GB_1988-80
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/GB_1988-80
+END
+IBM880
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/IBM880
+END
+INIS-8
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/INIS-8
+END
+JUS_I.B1.003-MAC
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/JUS_I.B1.003-MAC
+END
+KOI8-R
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KOI8-R
+END
+DEC-MCS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/DEC-MCS
+END
+KOI8-T
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KOI8-T
+END
+KOI8-U
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14284/branches/eglibc-2_14/libc/localedata/charmaps/KOI8-U
+END
